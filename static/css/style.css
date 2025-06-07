@@ -44,9 +44,10 @@ a:hover {
    Навигация
 ------------------------------ */
 /* === DEFAULT (Desktop) === */
+/* === ОБЩИЕ СТИЛИ ДЛЯ НАВИГАЦИИ === */
 .navbar {
-  padding-top: 0.3rem;
-  padding-bottom: 0.3rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
 }
 
 .logo-wrapper {
@@ -57,35 +58,36 @@ a:hover {
 }
 
 .logo-img {
-  height: 80px;
+  height: 70px;
+  max-height: 70px;
   width: auto;
   object-fit: contain;
   transition: transform 0.3s ease;
 }
 
 .logo-img:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .logo-wrapper .text-start {
-  transform: translateY(-4px);
+  transform: translateY(-3px);
 }
 
 .navbar .fw-bold.fs-4 {
-  font-size: 1.3rem;
+  font-size: 1.25rem;
 }
 
 .navbar .text-white-50.small {
   font-size: 0.75rem;
-  line-height: 1.2;
+  line-height: 1.1;
 }
 
 .navbar .btn {
-  padding: 0.5rem 1.2rem;
+  padding: 0.45rem 1.1rem;
   font-size: 1rem;
 }
 
-/* === MOBILE (up to 576px) === */
+/* === МОБИЛЬНАЯ ВЕРСИЯ === */
 @media (max-width: 576px) {
   .navbar {
     padding-top: 0.2rem;
@@ -93,7 +95,8 @@ a:hover {
   }
 
   .logo-img {
-    height: 50px;
+    height: 45px;
+    max-height: 45px;
   }
 
   .logo-wrapper {
@@ -110,7 +113,6 @@ a:hover {
 
   .navbar .text-white-50.small {
     font-size: 0.65rem;
-    line-height: 1.1;
   }
 
   .navbar .btn {
