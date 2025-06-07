@@ -1,0 +1,135 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>8AZ Logistics — Международные грузоперевозки</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- SEO -->
+  <meta name="description" content="8AZ Logistics — международная логистика. 12 лет опыта в грузоперевозках по Казахстану и СНГ. От А до Я.">
+  <meta name="keywords" content="логистика, транспорт, Казахстан, перевозки, 8AZ, 8AZ Logistics, международные перевозки, склад">
+  <meta name="author" content="8AZ Logistics">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="8AZ Logistics — Международные грузоперевозки">
+  <meta property="og:description" content="Гарантированная доставка. Опыт — 12 лет. Более 300 успешных проектов.">
+  <meta property="og:image" content="https://8az.kz/static/img/Logo.png">
+  <meta property="og:url" content="https://8az.kz">
+  <meta property="og:type" content="website">
+
+  <!-- Favicon -->
+  <link rel="icon" href="{% static 'img/favicon.ico' %}" type="image/png">
+
+  <!-- AOS CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
+
+  <!-- Bootstrap + Custom -->
+  <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "8AZ Logistics",
+    "alternateName": "A to Z logistics",
+    "url": "https://8az.kz",
+    "logo": "https://8az.kz/static/img/Logo.png",
+    "email": "director@8az.kz",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Алматы",
+      "streetAddress": "ул. Байтурсынова 113, оф. 15",
+      "addressCountry": "KZ"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+7-775-526-5007",
+      "contactType": "Customer Service",
+      "areaServed": "KZ",
+      "availableLanguage": ["ru", "en"]
+    }
+  }
+  </script>
+</head>
+
+
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    AOS.init({
+      duration: 800,
+      once: true
+    });
+  });
+</script>
+
+<body class="dark-bg pt-5">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-black shadow-sm position-fixed top-0 left-0 w-100 z-3 py-2">
+    <div class="container-fluid d-flex align-items-center">
+      <a class="logo-wrapper text-decoration-none me-4" href="/">
+        <img src="{% static 'img/Logo.png' %}" alt="8AZ Logo" class="logo-img me-3">
+      <div class="text-start lh-sm"> <!-- lh-sm = line-height: 1.25 -->
+  <div class="fw-bold fs-4 text-warning m-0">8AZ Logistics</div>
+  <div class="text-white-50 small">
+    <div>International Logistics</div>
+    <div>From A to Z Logistics</div>
+  </div>
+</div>
+      </a>
+
+      <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="nav">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item"><a class="nav-link text-white" href="/">О Компании</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/services/">Услуги</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/projects/">Проекты</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/contacts/">Контакты</a></li>
+          <li class="nav-item">
+            <a class="btn btn-warning ms-3 fw-semibold px-4" href="/apply/">Оставить заявку</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+  <main class="py-5">
+    <div class="container">
+      {% block content %}{% endblock %}
+    </div>
+  </main>
+
+  <footer class="footer bg-black text-white py-4 mt-auto border-top border-secondary">
+  <div class="container-fluid text-center small">
+    <p class="mb-1">&copy; 8AZ Logistics {{ now.year }}. Все права защищены.</p>
+    <p class="text-secondary" style="font-size: 0.85rem;">Ваш надёжный партнёр в сфере логистики с 2016 года.</p>
+  </div>
+</footer>
+<!-- Кнопка "Вверх" -->
+<a href="#" id="scrollToTopBtn" class="scroll-to-top" title="Наверх">&#8679;</a>
+
+<!-- Скрипт для появления кнопки -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const scrollBtn = document.getElementById('scrollToTopBtn');
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 300) {
+        scrollBtn.classList.add('show');
+      } else {
+        scrollBtn.classList.remove('show');
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,188 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<!-- Заголовок всей страницы -->
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <h1 class="text-center fw-bold mb-4">Наши реализованные проекты</h1>
+    <p class="text-center mb-5 fs-5">
+      8AZ Logistics успешно реализовала сотни проектов для ведущих компаний Казахстана, обеспечивая надёжную логистику, скорость и профессионализм.
+    </p>
+  </div>
+</section>
+
+<!-- Блок "300+ реализованных проектов" -->
+<section class="bg-black text-white py-5 rounded-section mt-4">
+  <div class="container text-center" data-aos="fade-up">
+    <div id="counter" class="display-3 fw-bold mb-3">0</div>
+    <h2 class="fw-bold mb-4 text-warning">Успешно выполненных проектов</h2>
+    <p class="fs-5">
+      С 2016 года компания 8AZ Logistics зарекомендовала себя как надёжный партнёр в области логистики и транспортировки.
+      Мы успешно обслужили крупнейшие компании Казахстана и СНГ, такие как Air Astana, Kazatomprom, Freedom Telecom, Казахтелеком и другие.
+    </p>
+    <ul class="list-unstyled fs-5 mt-3">
+      <li>✔ Международные и локальные перевозки оборудования и продукции</li>
+      <li>✔ Мультимодальные маршруты через Казахстан, Китай, Россию и страны СНГ</li>
+      <li>✔ Специализированную логистику для авиационной, телекоммуникационной и производственной отраслей</li>
+      <li>✔ Аутсорсинг логистических процессов для корпоративных клиентов</li>
+      <li>✔ Организацию доставки в удалённые регионы и промышленные зоны</li>
+    </ul>
+    <p class="fs-5 mt-3">
+      Мы гордимся гибкостью решений, прозрачностью условий и точным соблюдением сроков поставок.
+    </p>
+  </div>
+</section>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const counter = document.getElementById('counter');
+    let count = 0;
+    const target = 300;
+    const duration = 2000; // 2 секунды
+    const increment = target / (duration / 20);
+
+    const counterInterval = setInterval(() => {
+      count += increment;
+      if (count >= target) {
+        counter.innerText = target + '+';
+        clearInterval(counterInterval);
+      } else {
+        counter.innerText = Math.floor(count).toString();
+      }
+    }, 20);
+  });
+</script>
+
+<!-- Проект: Air Astana -->
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6" data-aos="fade-right">
+        <img src="{% static 'img/airastana.png' %}" alt="Air Astana" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <h2 class="text-warning fw-bold mb-4">Air Astana</h2>
+        <p class="fs-5">
+          Спецтехника в аэропортах Астаны и Алматы. <br>
+          Доставка баллонов с кислородом в аэропорт Алматы с полным логистическим сопровождением.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Проект: Maxwell Distribution -->
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center flex-lg-row-reverse">
+      <div class="col-lg-6" data-aos="fade-left">
+        <img src="{% static 'img/maxwell.png' %}" alt="Maxwell" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-right">
+        <h2 class="text-warning fw-bold mb-4">Maxwell Distribution</h2>
+        <p class="fs-5">
+          Поставка 200+ контейнеров из Китая и Турции. <br>
+          Полное логистическое сопровождение школьного оборудования по Казахстану и СНГ.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Проект: Freedom Telecom -->
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6" data-aos="fade-right">
+        <img src="{% static 'img/freedom.png' %}" alt="Freedom Telecom" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <h2 class="text-warning fw-bold mb-4">Freedom Telecom</h2>
+        <p class="fs-5">
+          Перевозка телеком-оборудования по РК. <br>
+          Логистика для проектов по строительству и модернизации сетей связи.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Проект: Coca-Cola -->
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6" data-aos="fade-right">
+        <img src="{% static 'img/cocacola.jpg' %}" alt="Coca-Cola" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <h2 class="text-warning fw-bold mb-4">Coca-Cola</h2>
+        <p class="fs-5">
+          Обеспечение транспорта для полноценной дистрибьюции продукции<br>
+         с заводов Coca Cola по территории Казахстана.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Проект: Казахтелеком -->
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6" data-aos="fade-right">
+        <img src="{% static 'img/kazaktelekom.png' %}" alt="Казахтелеком" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <h2 class="text-warning fw-bold mb-4">Казахтелеком</h2>
+        <p class="fs-5">
+          Поставка телекоммуникационного оборудования. <br>
+          Расширение сети связи по всем регионам Казахстана.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center flex-lg-row-reverse">
+      <div class="col-lg-6" data-aos="fade-left">
+        <img src="{% static 'img/zammler.jpg' %}" alt="ZAMMLER" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-right">
+        <h2 class="text-warning fw-bold mb-4">Грузы Kaspi – ZAMMLER</h2>
+        <p class="fs-5">
+          Команда 8AZ предоставляет <span class="highlight-yellow">услуги по магистральным перевозкам</span> грузов компании ZAMMLER по территории Казахстана с использованием стандартных еврофур.
+          От нашей команды выделен <strong>Key Account менеджер</strong>, осуществляющий контроль перевозок 24/7.
+          <br><br>
+          Особенность проекта — <strong class="highlight-yellow">срочная доставка грузов</strong>, с полным логистическим сопровождением.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+    <section class="bg-black text-white py-5 rounded-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6" data-aos="fade-right">
+        <img src="{% static 'img/Kazatomprom.png' %}" alt="Группа компаний Казатампром" class="img-fluid rounded project-img-custom">
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <h2 class="text-warning fw-bold mb-4">Группа компаний Казатампром</h2>
+        <p class="fs-5">
+          Обслуживание дочерних компаний Казатампром. <br>
+           (Ульбинский Завод, Машзавод, Волковгеология).
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Кнопка "Оставить заявку" -->
+<section class="bg-black text-white py-5 rounded-section ">
+  <div class="container text-center">
+    <a href="/apply/" class="btn btn-warning btn-lg px-5">Оставить заявку</a>
+  </div>
+</section>
+
+{% endblock %}

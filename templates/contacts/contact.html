@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<!-- Большой блок с фоновым фото и контактами -->
+<section class="contact-hero text-white d-flex align-items-center">
+  <div class="container py-5">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-10 bg-dark bg-opacity-75 p-5 rounded-4 shadow-lg">
+        <h1 class="fw-bold display-5 text-warning mb-3">Контакты</h1>
+        <p class="fs-4 mb-4">Мы всегда на связи — пишите или звоните:</p>
+          <p class="fs-5 mb-1"><strong>Адрес:</strong></p>
+        <p class="fs-5">  г.Алматы, ул. Байтурсынова 113, оф. 15</p>
+       <p class="fs-5 mb-1"><strong>Телефон:</strong></p>
+<p class="fs-5 mb-1">+7 775-526-50-07</p>
+<p class="fs-5">+7 707-990-00-18</p>
+           <p class="fs-5 mb-1"><strong>Email:</strong></p>
+        <p class="fs-5"> director@8az.kz</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Кнопка "Оставить заявку" -->
+<section class="bg-dark text-white py-5">
+  <div class="container text-center">
+    <a href="{% url 'apply' %}" class="btn btn-warning btn-lg px-5">Оставить заявку</a>
+  </div>
+</section>
+
+{% endblock %}
