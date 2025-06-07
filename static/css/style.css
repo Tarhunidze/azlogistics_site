@@ -43,22 +43,65 @@ a:hover {
 /* ------------------------------
    Навигация
 ------------------------------ */
+/* === DEFAULT (Desktop) === */
+.navbar {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  max-width: 100%;
+}
+
+.logo-img {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.logo-img:hover {
+  transform: scale(1.1);
+}
+
+.logo-wrapper .text-start {
+  transform: translateY(-4px);
+}
+
+.navbar .fw-bold.fs-4 {
+  font-size: 1.3rem;
+}
+
+.navbar .text-white-50.small {
+  font-size: 0.75rem;
+  line-height: 1.2;
+}
+
+.navbar .btn {
+  padding: 0.5rem 1.2rem;
+  font-size: 1rem;
+}
+
+/* === MOBILE (up to 576px) === */
 @media (max-width: 576px) {
   .navbar {
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
   }
 
   .logo-img {
-    height: 55px; /* уменьшенный логотип на мобилке */
+    height: 50px;
   }
 
   .logo-wrapper {
-    gap: 8px;
+    gap: 6px;
   }
 
   .logo-wrapper .text-start {
-    transform: translateY(-2px);
+    transform: translateY(-1px);
   }
 
   .navbar .fw-bold.fs-4 {
@@ -71,11 +114,10 @@ a:hover {
   }
 
   .navbar .btn {
-    padding: 0.3rem 0.9rem;
+    padding: 0.3rem 0.8rem;
     font-size: 0.85rem;
   }
 }
-
 
 /* ------------------------------
    Hero-секция
