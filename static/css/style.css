@@ -43,14 +43,39 @@ a:hover {
 /* ------------------------------
    Навигация
 ------------------------------ */
-.navbar {
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
+@media (max-width: 576px) {
+  .navbar {
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+  }
+
+  .logo-img {
+    height: 55px; /* уменьшенный логотип на мобилке */
+  }
+
+  .logo-wrapper {
+    gap: 8px;
+  }
+
+  .logo-wrapper .text-start {
+    transform: translateY(-2px);
+  }
+
+  .navbar .fw-bold.fs-4 {
+    font-size: 1rem;
+  }
+
+  .navbar .text-white-50.small {
+    font-size: 0.65rem;
+    line-height: 1.1;
+  }
+
+  .navbar .btn {
+    padding: 0.3rem 0.9rem;
+    font-size: 0.85rem;
+  }
 }
-.navbar-brand {
-  font-size: 1.5rem;
-  font-weight: 700;
-}
+
 
 /* ------------------------------
    Hero-секция
@@ -592,26 +617,7 @@ html {
 .contact-hero .bg-opacity-75 {
   background-color: rgba(0, 0, 0, 0.75);
 }
-.logo-wrapper {
-  display: flex;
-  align-items: center;
-  gap: 12px; /* расстояние между логотипом и текстом */
-}
-.logo-wrapper .text-start {
-  transform: translateY(-4px); /* поднимет текст чуть выше */
-}
 
-
-.logo-img {
-  height: 120px; /* уменьшенная иконка, чтобы выровнять по высоте текста */
-  width: auto;
-  object-fit: contain;
-}
-
-
-.logo-img:hover {
-  transform: scale(1.1); /* масштаб при наведении */
-}
 .summary-text p {
   max-width: 800px;
   margin: 0 auto;
