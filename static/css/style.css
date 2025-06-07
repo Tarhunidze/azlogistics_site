@@ -45,21 +45,21 @@ a:hover {
 ------------------------------ */
 /* === DEFAULT (Desktop) === */
 /* === ОБЩИЕ СТИЛИ ДЛЯ НАВИГАЦИИ === */
+/* === ОБЩИЕ СТИЛИ === */
 .navbar {
-  padding-top: 0.4rem;
-  padding-bottom: 0.4rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .logo-wrapper {
   display: flex;
   align-items: center;
   gap: 12px;
-  max-width: 100%;
 }
 
 .logo-img {
-  height: 70px;
-  max-height: 70px;
+  height: 80px;
+  max-height: 80px;
   width: auto;
   object-fit: contain;
   transition: transform 0.3s ease;
@@ -74,12 +74,12 @@ a:hover {
 }
 
 .navbar .fw-bold.fs-4 {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
 }
 
 .navbar .text-white-50.small {
   font-size: 0.75rem;
-  line-height: 1.1;
+  line-height: 1.15;
 }
 
 .navbar .btn {
@@ -87,39 +87,41 @@ a:hover {
   font-size: 1rem;
 }
 
-/* === МОБИЛЬНАЯ ВЕРСИЯ === */
+
+/* === МОБИЛЬНАЯ АДАПТАЦИЯ === */
 @media (max-width: 576px) {
   .navbar {
-    padding-top: 0.2rem;
-    padding-bottom: 0.2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
   }
 
   .logo-img {
-    height: 45px;
-    max-height: 45px;
+    height: 60px;
   }
 
   .logo-wrapper {
-    gap: 6px;
+    gap: 8px;
   }
 
   .logo-wrapper .text-start {
-    transform: translateY(-1px);
+    transform: translateY(-2px);
   }
 
   .navbar .fw-bold.fs-4 {
-    font-size: 1rem;
+    font-size: 1.05rem;
   }
 
   .navbar .text-white-50.small {
     font-size: 0.65rem;
+    line-height: 1.1;
   }
 
   .navbar .btn {
-    padding: 0.3rem 0.8rem;
-    font-size: 0.85rem;
+    padding: 0.35rem 1rem;
+    font-size: 0.9rem;
   }
 }
+
 
 /* ------------------------------
    Hero-секция
@@ -389,7 +391,7 @@ footer p {
 }
 .service-img {
   width: 100%;
-  height: 160px;
+  height: 350px;
   object-fit: cover;
   border-radius: 8px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
