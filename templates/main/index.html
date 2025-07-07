@@ -1,197 +1,197 @@
-
 {% extends "base.html" %}
 {% load static %}
+{% load i18n %}
 {% block content %}
 
-
-<!-- Hero-секция -->
-<!-- hero.html -->
+<!-- Hero Section -->
 <section class="hero-section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
-        <h1 class="hero-title">Ваш надёжный партнёр</h1>
-        <h1 class="hero-title">в сфере транспортной логистики</h1>
+        <h1 class="hero-title">{% trans "Your trusted partner" %}</h1>
+        <h1 class="hero-title">{% trans "in transport logistics" %}</h1>
 
         <p class="hero-subtitle">
-          <span>Проектная логистика</span>
-          <span>Долгосрочные контракты</span>
-          <span>Сервисы под нужды клиентов</span>
+          <span>{% trans "Project logistics" %}</span>
+          <span>{% trans "Long-term contracts" %}</span>
+          <span>{% trans "Client-focused services" %}</span>
         </p>
 
         <div class="hero-stats">
           <div>
-            <h4>12 лет</h4>
-            <p>опыт на рынке</p>
+            <h4>12 {% trans "years" %}</h4>
+            <p>{% trans "of market experience" %}</p>
           </div>
           <div>
             <h4>300+</h4>
-            <p>выполненных проектов</p>
+            <p>{% trans "completed projects" %}</p>
           </div>
           <div>
             <h4>24/7</h4>
-            <p>поддержка</p>
+            <p>{% trans "support" %}</p>
           </div>
         </div>
 
         <div class="hero-button">
-          <a href="/apply/" class="btn-cta">Оставить заявку</a>
+          <a href="/apply/" class="btn-cta">{% trans "Leave a request" %}</a>
         </div>
       </div>
 
       <div class="col-lg-6 hero-image">
-        <img src="{% static 'img/Truck3.jpeg' %}" alt="НЕТранспорт" class="service-img mb-3"/>
+        <img src="{% static 'img/Truck3.jpeg' %}" alt="{% trans 'Transport truck' %}" class="service-img mb-3"/>
       </div>
     </div>
   </div>
 </section>
 
-
-
-<!-- О компании -->
+<!-- About Company -->
 <section class="bg-dark text-white py-5">
   <div class="container-fluid px-5">
-    <h2 class="text-center mb-4 fw-bold">О компании 8AZ Logistics</h2>
+    <h2 class="text-center mb-4 fw-bold">{% trans "About 8AZ Logistics" %}</h2>
     <div class="row">
       <div class="col-md-6">
-        <p>С 2016 года <strong>8AZ Logistics</strong> предоставляет комплексные логистические услуги на территории Казахстана и за его пределами. Мы специализируемся на долгосрочных контрактах, адаптированных под задачи клиентов, и предоставляем сервис "от А до Я".</p>
-        <p>Сегодня у нас 3 офиса в Казахстане, команда из более чем 30 специалистов и грузооборот в 5 миллиардов тенге в год.</p>
+        <p>{% trans "Since 2016, 8AZ Logistics has been providing comprehensive logistics services in Kazakhstan and beyond. We specialize in long-term contracts tailored to clients' needs and offer A-to-Z services." %}</p>
+        <p>{% trans "Today, we operate 3 offices across Kazakhstan, have a team of more than 30 professionals, and process over 5 billion KZT in annual cargo turnover." %}</p>
       </div>
       <div class="col-md-6">
         <ul class="list-unstyled">
-          <li><strong>✔ 9 лет опыта</strong> — надёжность, проверенная временем</li>
-          <li><strong>✔ Международные и локальные перевозки</strong> — Россия, Китай, СНГ</li>
-          <li><strong>✔ Собственный автопарк и спецтехника</strong> — краны, манипуляторы, АГП</li>
-          <li><strong>✔ Поддержка 24/7</strong> — индивидуальный Key Account менеджер</li>
+          <li><strong>✔ {% trans "9 years of experience" %}</strong> — {% trans "proven reliability" %}</li>
+          <li><strong>✔ {% trans "International and local transport" %}</strong> — {% trans "Russia, China, CIS" %}</li>
+          <li><strong>✔ {% trans "Own fleet and equipment" %}</strong> — {% trans "cranes, manipulators, aerial platforms" %}</li>
+          <li><strong>✔ {% trans "24/7 support" %}</strong> — {% trans "personal Key Account manager" %}</li>
         </ul>
       </div>
     </div>
   </div>
 </section>
 
-    <section class="company-summary-section">
+  <!-- Company Summary -->
+<section class="company-summary-section">
   <div class="container">
     <div class="summary-wrapper">
-      <h3 class="summary-title">8AZ в цифрах</h3>
+      <h3 class="summary-title">{% trans "8AZ in Numbers" %}</h3>
       <div class="row text-center text-white mb-5">
         <div class="col-md-3 mb-4">
           <h2 class="summary-number">9+</h2>
-          <p class="summary-label">лет опыта</p>
+          <p class="summary-label">{% trans "years of experience" %}</p>
         </div>
         <div class="col-md-3 mb-4">
           <h2 class="summary-number">3</h2>
-          <p class="summary-label">офиса в Казахстане</p>
+          <p class="summary-label">{% trans "offices in Kazakhstan" %}</p>
         </div>
         <div class="col-md-3 mb-4">
           <h2 class="summary-number">30+</h2>
-          <p class="summary-label">специалистов</p>
+          <p class="summary-label">{% trans "specialists" %}</p>
         </div>
         <div class="col-md-3 mb-4">
-          <h2 class="summary-number">5 млрд ₸</h2>
-          <p class="summary-label">годовой грузооборот</p>
+          <h2 class="summary-number">5B ₸</h2>
+          <p class="summary-label">{% trans "annual cargo turnover" %}</p>
         </div>
       </div>
 
       <p class="summary-highlight">
-  Особенность <span class="highlight-yellow">8AZ Logistics</span> заключается в том, что мы специализируемся на
-  <span class="highlight-yellow">долгосрочной контрактной работе</span> с нашими партнёрами и на
-  <span class="highlight-yellow">выстраивании сервисов под нужды клиентов</span>, исходя из производственных и стратегических задач.
-</p>
+        {% trans "The uniqueness of" %} <span class="highlight-yellow">8AZ Logistics</span> {% trans "is in our focus on" %}
+        <span class="highlight-yellow">{% trans "long-term contracts" %}</span> {% trans "with our partners and on" %}
+        <span class="highlight-yellow">{% trans "building services tailored to client needs" %}</span>
+        {% trans "based on operational and strategic goals." %}
+      </p>
     </div>
   </div>
 </section>
 
+<!-- Services -->
 <section class="services-section text-white py-5">
   <div class="container">
-    <h2 class="text-center mb-5 fw-bold">Наши услуги</h2>
+    <h2 class="text-center mb-5 fw-bold">{% trans "Our Services" %}</h2>
     <div class="row g-4 justify-content-center">
-      <div class="col-md-6 col-lg-3" >
+      <div class="col-md-6 col-lg-3">
         <div class="service-card text-center p-3 bg-dark rounded">
-          <img src="{% static 'img/gruzoperevozki.jpeg' %}" alt="Грузоперевозки" class="service-img mb-3">
-          <h5 class="text-warning fw-bold">Грузоперевозки</h5>
-          <p>Перевозка по Казахстану и СНГ любыми видами транспорта.</p>
+          <img src="{% static 'img/gruzoperevozki.jpeg' %}" alt="{% trans 'Cargo Transport' %}" class="service-img mb-3">
+          <h5 class="text-warning fw-bold">{% trans "Cargo Transport" %}</h5>
+          <p>{% trans "Domestic and international transportation using all types of vehicles." %}</p>
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3" >
+      <div class="col-md-6 col-lg-3">
         <div class="service-card text-center p-3 bg-dark rounded">
-          <img src="{% static 'img/spectehnika.jpeg' %}" alt="Спецтехника" class="service-img mb-3">
-          <h5 class="text-warning fw-bold">Спецтехника</h5>
-          <p>Манипуляторы, краны, АГП и другое оборудование.</p>
+          <img src="{% static 'img/spectehnika.jpeg' %}" alt="{% trans 'Special Equipment' %}" class="service-img mb-3">
+          <h5 class="text-warning fw-bold">{% trans "Special Equipment" %}</h5>
+          <p>{% trans "Cranes, manipulators, aerial platforms, and more." %}</p>
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3" >
+      <div class="col-md-6 col-lg-3">
         <div class="service-card text-center p-3 bg-dark rounded">
-          <img src="{% static 'img/outsort.jpeg' %}" alt="Аутсорсинг логистики" class="service-img mb-3">
-          <h5 class="text-warning fw-bold">Аутсорсинг логистики</h5>
-          <p>Закроем все логистические процессы вашей компании.</p>
+          <img src="{% static 'img/outsort.jpeg' %}" alt="{% trans 'Logistics Outsourcing' %}" class="service-img mb-3">
+          <h5 class="text-warning fw-bold">{% trans "Logistics Outsourcing" %}</h5>
+          <p>{% trans "We handle all logistics processes for your company." %}</p>
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3" >
+      <div class="col-md-6 col-lg-3">
         <div class="service-card text-center p-3 bg-dark rounded">
-          <img src="{% static 'img/multimodal.jpeg' %}" alt="Мультимодальные перевозки" class="service-img mb-3">
-          <h5 class="text-warning fw-bold">Мультимодальные перевозки</h5>
-          <p>Оптимальные маршруты с комбинированной доставкой.</p>
+          <img src="{% static 'img/multimodal.jpeg' %}" alt="{% trans 'Multimodal Transport' %}" class="service-img mb-3">
+          <h5 class="text-warning fw-bold">{% trans "Multimodal Transport" %}</h5>
+          <p>{% trans "Optimal routes with combined delivery methods." %}</p>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Наша история -->
+
+<!-- Our History -->
 <section class="bg-black text-white py-5">
   <div class="container-fluid px-5">
-    <h2 class="text-center mb-5 fw-bold">Наша история</h2>
+    <h2 class="text-center mb-5 fw-bold">{% trans "Our History" %}</h2>
     <div class="timeline">
 
       <div class="timeline-item left">
         <div class="content">
           <h5>2016</h5>
-          <p>Основание 8AZ Logistics. Открытие первого офиса и начало работы в качестве транспортного экспедитора в Казахстане.</p>
+          <p>{% trans "Foundation of 8AZ Logistics. First office opened. Started operations as a freight forwarder in Kazakhstan." %}</p>
         </div>
       </div>
 
       <div class="timeline-item right">
         <div class="content">
           <h5>2017</h5>
-          <p>Сотрудничество с АО «НАК «Казатомпром» по экспедированию контейнеров из Франции.</p>
+          <p>{% trans "Partnership with Kazatomprom for forwarding containers from France." %}</p>
         </div>
       </div>
 
       <div class="timeline-item left">
         <div class="content">
           <h5>2018</h5>
-          <p>Выход на международные перевозки с Китая и Юго-Восточной Азии. Расширение команды до 20 человек.</p>
+          <p>{% trans "Expansion into international transportation from China and Southeast Asia. Team grew to 20 people." %}</p>
         </div>
       </div>
 
       <div class="timeline-item right">
         <div class="content">
           <h5>2019</h5>
-          <p>Открытие филиалов в Нур-Султане и Шымкенте. Расширение автопарка. Активное развитие локальной логистики.</p>
+          <p>{% trans "Branches opened in Nur-Sultan and Shymkent. Fleet expanded. Local logistics developed." %}</p>
         </div>
       </div>
 
       <div class="timeline-item left">
         <div class="content">
           <h5>2021</h5>
-          <p>Обслуживание крупных корпораций: Ульбинский завод, Казахтелеком, Air Astana.</p>
+          <p>{% trans "Service for major corporations: Ulba Plant, Kazakhtelecom, Air Astana." %}</p>
         </div>
       </div>
 
       <div class="timeline-item right">
         <div class="content">
           <h5>2023</h5>
-          <p>Грузооборот с Китая: около 450 контейнеров в год. Прямое сотрудничество с транзитными сухими портами Хоргос и Достык.</p>
+          <p>{% trans "Cargo flow from China: about 450 containers per year. Cooperation with dry ports Khorgos and Dostyk." %}</p>
         </div>
       </div>
 
       <div class="timeline-item left">
         <div class="content">
           <h5>2024</h5>
-          <p>5 млрд тенге годового оборота. Более 30 сотрудников. 3 офиса в Казахстане. Расширение мультимодальной логистики и аутсорсинга логистики.</p>
+          <p>{% trans "5 billion KZT turnover. 30+ employees. 3 offices in Kazakhstan. Expanded multimodal and outsourced logistics." %}</p>
         </div>
       </div>
 
@@ -199,35 +199,33 @@
   </div>
 </section>
 
+<!-- Advantages -->
 <section class="advantages-section py-5">
   <div class="container">
-    <h2 class="text-center mb-5 fw-bold text-warning">Наши преимущества</h2>
+    <h2 class="text-center mb-5 fw-bold text-warning">{% trans "Our Advantages" %}</h2>
     <div class="row g-4 justify-content-center">
 
-      <!-- Персональный менеджер -->
       <div class="col-md-6 col-lg-4" data-aos="fade-up">
         <div class="advantage-card text-center p-4 bg-dark rounded shadow">
-          <img src="{% static 'img/key2.png' %}" alt="Персональный менеджер" class="advantage-icon mb-3">
-          <h5 class="text-warning fw-bold">Персональный Key Account менеджер</h5>
-          <p>Каждому клиенту предоставляется персональный менеджер, доступный 24/7 для оперативного решения ключевых задач.</p>
+          <img src="{% static 'img/key2.png' %}" alt="{% trans 'Personal Manager' %}" class="advantage-icon mb-3">
+          <h5 class="text-warning fw-bold">{% trans "Personal Key Account Manager" %}</h5>
+          <p>{% trans "Each client is assigned a personal manager available 24/7 to solve key issues." %}</p>
         </div>
       </div>
 
-      <!-- Услуги от А до Я -->
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
         <div class="advantage-card text-center p-4 bg-dark rounded shadow">
-          <img src="{% static 'img/AZ.png' %}" alt="Услуги от А до Я" class="advantage-icon mb-3">
-          <h5 class="text-warning fw-bold">Услуги от «А до Я»</h5>
-          <p>Полное сопровождение: от международных перевозок с учетом специфики ВЭД до предоставления грузчиков и спецтехники.</p>
+          <img src="{% static 'img/AZ.png' %}" alt="{% trans 'A to Z Services' %}" class="advantage-icon mb-3">
+          <h5 class="text-warning fw-bold">{% trans "A to Z Services" %}</h5>
+          <p>{% trans "Full support: from international transport with customs to loaders and equipment." %}</p>
         </div>
       </div>
 
-      <!-- Веб-портал -->
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="advantage-card text-center p-4 bg-dark rounded shadow">
-          <img src="{% static 'img/web.png' %}" alt="Веб-портал" class="advantage-icon mb-3">
-          <h5 class="text-warning fw-bold">Веб-портал под ваш бизнес</h5>
-          <p>Разработка индивидуального IT-решения для отслеживания заявок и оптимизации логистики под нужды вашей компании.</p>
+          <img src="{% static 'img/web.png' %}" alt="{% trans 'Web Portal' %}" class="advantage-icon mb-3">
+          <h5 class="text-warning fw-bold">{% trans "Web Portal for Your Business" %}</h5>
+          <p>{% trans "Custom IT solution for tracking requests and optimizing logistics." %}</p>
         </div>
       </div>
 
@@ -235,98 +233,93 @@
   </div>
 </section>
 
-<!-- Клиенты  -->
+
+<!-- Clients -->
 <section class="clients-section py-5">
   <div class="container">
-    <h2 class="text-center fw-bold text-warning mb-5">Наши клиенты</h2>
+    <h2 class="text-center fw-bold text-warning mb-5">{% trans "Our Clients" %}</h2>
     <div class="row g-4 justify-content-center">
 
-      <!-- Карточка клиента -->
       <div class="col-md-6 col-lg-4" data-aos="fade-up">
         <div class="client-card text-center p-4 bg-dark rounded-4">
           <img src="{% static 'img/airastana.png' %}" alt="Air Astana" class="client-img mb-3">
-       <h5 class="text-warning client-title">Air Astana</h5>
-          <p class="text-light">Технические поставки и логистика авиационного оборудования.</p>
+          <h5 class="text-warning client-title">Air Astana</h5>
+          <p class="text-light">{% trans "Technical supplies and logistics for aviation equipment." %}</p>
         </div>
       </div>
 
-       <!-- Остальные 6 аналогично -->
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
         <div class="client-card text-center p-4 bg-dark rounded-4">
           <img src="{% static 'img/maxwell.png' %}" alt="Maxwell" class="client-img mb-3">
           <h5 class="text-warning client-title">Maxwell Distribution</h5>
-          <p class="text-light">Упаковка и доставка продукции по Казахстану и СНГ.</p>
+          <p class="text-light">{% trans "Packaging and delivery of goods in Kazakhstan and CIS." %}</p>
         </div>
       </div>
 
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
         <div class="client-card text-center p-4 bg-dark rounded-4">
           <img src="{% static 'img/freedom.png' %}" alt="Freedom" class="client-img mb-3">
-            <h5 class="text-warning client-title">Freedom Telecom</h5>
-          <p class="text-light">Перевозка телекоммуникационных систем и комплектующих.</p>
+          <h5 class="text-warning client-title">Freedom Telecom</h5>
+          <p class="text-light">{% trans "Transport of telecommunications systems and components." %}</p>
         </div>
       </div>
 
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
         <div class="client-card text-center p-4 bg-dark rounded-4">
           <img src="{% static 'img/kazaktelekom.png' %}" alt="Kaztelecom" class="client-img mb-3">
-            <h5 class="text-warning client-title">Казахтелеком</h5>
-          <p class="text-light">Доставка и установка оборудования в регионах.</p>
+          <h5 class="text-warning client-title">{% trans "Kazakhtelecom" %}</h5>
+          <p class="text-light">{% trans "Delivery and installation of equipment in regions." %}</p>
         </div>
       </div>
 
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="400">
         <div class="client-card text-center p-4 bg-dark rounded-4">
           <img src="{% static 'img/cocacola.jpg' %}" alt="Coca-Cola" class="client-img mb-3">
-             <h5 class="text-warning client-title">Coca Cola Kazakhstan</h5>
-          <p class="text-light">Стабильные поставки в ритейл по графику без сбоев.</p>
+          <h5 class="text-warning client-title">Coca Cola Kazakhstan</h5>
+          <p class="text-light">{% trans "Regular retail deliveries without delays." %}</p>
         </div>
       </div>
 
-       <!-- Новый клиент 7 -->
       <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="500">
         <div class="client-card text-center p-4 bg-dark rounded-4">
-          <img src="{% static 'img/Kazatomprom.png' %}" alt="KazMinerals" class="client-img mb-3">
-            <h5 class="text-warning client-title">Группа компаний Казатампром</h5>
-          <p class="text-light">Логистика для Ульбинского завода, Машзавода и Волковгеологии.</p>
+          <img src="{% static 'img/Kazatomprom.png' %}" alt="Kazatomprom" class="client-img mb-3">
+          <h5 class="text-warning client-title">{% trans "Kazatomprom Group" %}</h5>
+          <p class="text-light">{% trans "Logistics for Ulba plant, Mashzavod, and Volkovgeologia." %}</p>
         </div>
       </div>
-           <!-- Новый клиент 8 -->
-        <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="600">
-  <div class="client-card text-center p-4 bg-dark rounded-4">
-    <img src="{% static 'img/zammler.jpg' %}" alt="ZAMMLER" class="client-img mb-3">
-    <h5 class="text-warning client-title">Грузов Каспи – ZAMMLER</h5>
-    <p class="text-light">
-      Срочные магистральные перевозки.
-     Контроль 24/7.<br>
-    </p>
-  </div>
-</div>
 
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="600">
+        <div class="client-card text-center p-4 bg-dark rounded-4">
+          <img src="{% static 'img/zammler.jpg' %}" alt="ZAMMLER" class="client-img mb-3">
+          <h5 class="text-warning client-title">{% trans "Gruzov Kaspi – ZAMMLER" %}</h5>
+          <p class="text-light">{% trans "Urgent trunk transportation. 24/7 monitoring." %}</p>
+        </div>
+      </div>
 
     </div>
   </div>
 </section>
-       <!-- контакты -->
+
+<!-- Contacts -->
 <section class="contacts-section text-white py-5">
   <div class="container">
-    <h2 class="text-center mb-5 fw-bold">Контакты</h2>
+    <h2 class="text-center mb-5 fw-bold">{% trans "Contacts" %}</h2>
     <div class="row justify-content-center">
       <div class="col-md-6">
         <div class="contact-card bg-dark rounded p-4 text-center">
           <div class="mb-4">
-            <img src="{% static 'img/mayak2.png' %}" alt="Локация" class="contact-icon mb-2">
-            <p>г.Алматы, ул. Байтурсынова 113, оф. 15 </p>
+            <img src="{% static 'img/mayak2.png' %}" alt="{% trans 'Location' %}" class="contact-icon mb-2">
+            <p>{% trans "Almaty, Baitursynov str. 113, office 15" %}</p>
           </div>
           <div class="mb-4">
-            <img src="{% static 'img/phone2.png' %}" alt="Телефон" class="contact-icon mb-2">
+            <img src="{% static 'img/phone2.png' %}" alt="{% trans 'Phone' %}" class="contact-icon mb-2">
             <p>+7 775-526-50-07</p>
           </div>
           <div class="mb-4">
-            <img src="{% static 'img/email2.png' %}" alt="Email" class="contact-icon mb-2">
+            <img src="{% static 'img/email2.png' %}" alt="{% trans 'Email' %}" class="contact-icon mb-2">
             <p>director@8az.kz</p>
           </div>
-          <a href="{% url 'apply' %}" class="btn btn-warning mt-3 px-5">Отправить сообщение</a>
+          <a href="{% url 'apply' %}" class="btn btn-warning mt-3 px-5">{% trans "Send a message" %}</a>
         </div>
       </div>
     </div>

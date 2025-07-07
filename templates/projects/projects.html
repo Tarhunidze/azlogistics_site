@@ -1,45 +1,45 @@
 {% extends 'base.html' %}
-{% load static %}
+{% load static i18n %}
 
 {% block content %}
 
-<!-- Заголовок всей страницы -->
+<!-- Page Title -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
-    <h1 class="text-center fw-bold mb-4">Наши реализованные проекты</h1>
+    <h1 class="text-center fw-bold mb-4">{% trans "Our Completed Projects" %}</h1>
     <p class="text-center mb-5 fs-5">
-      8AZ Logistics успешно реализовала сотни проектов для ведущих компаний Казахстана, обеспечивая надёжную логистику, скорость и профессионализм.
+      {% trans "8AZ Logistics has successfully completed hundreds of projects for leading companies in Kazakhstan, delivering reliable logistics, speed, and professionalism." %}
     </p>
   </div>
 </section>
 
-<!-- Блок "300+ реализованных проектов" -->
+<!-- "300+ Completed Projects" Block -->
 <section class="bg-black text-white py-5 rounded-section mt-4">
   <div class="container text-center" data-aos="fade-up">
     <div id="counter" class="display-3 fw-bold mb-3">0</div>
-    <h2 class="fw-bold mb-4 text-warning">Успешно выполненных проектов</h2>
+    <h2 class="fw-bold mb-4 text-warning">{% trans "Successfully Completed Projects" %}</h2>
     <p class="fs-5">
-      С 2016 года компания 8AZ Logistics зарекомендовала себя как надёжный партнёр в области логистики и транспортировки.
-      Мы успешно обслужили крупнейшие компании Казахстана и СНГ, такие как Air Astana, Kazatomprom, Freedom Telecom, Казахтелеком и другие.
+      {% trans "Since 2016, 8AZ Logistics has proven to be a reliable partner in logistics and transportation. We have successfully served the largest companies in Kazakhstan and the CIS, including Air Astana, Kazatomprom, Freedom Telecom, Kazakhtelecom, and others." %}
     </p>
     <ul class="list-unstyled fs-5 mt-3">
-      <li>✔ Международные и локальные перевозки оборудования и продукции</li>
-      <li>✔ Мультимодальные маршруты через Казахстан, Китай, Россию и страны СНГ</li>
-      <li>✔ Специализированную логистику для авиационной, телекоммуникационной и производственной отраслей</li>
-      <li>✔ Аутсорсинг логистических процессов для корпоративных клиентов</li>
-      <li>✔ Организацию доставки в удалённые регионы и промышленные зоны</li>
+      <li>✔ {% trans "International and local transportation of equipment and goods" %}</li>
+      <li>✔ {% trans "Multimodal routes through Kazakhstan, China, Russia, and CIS countries" %}</li>
+      <li>✔ {% trans "Specialized logistics for aviation, telecommunications, and manufacturing industries" %}</li>
+      <li>✔ {% trans "Outsourcing of logistics processes for corporate clients" %}</li>
+      <li>✔ {% trans "Delivery to remote regions and industrial zones" %}</li>
     </ul>
     <p class="fs-5 mt-3">
-      Мы гордимся гибкостью решений, прозрачностью условий и точным соблюдением сроков поставок.
+      {% trans "We pride ourselves on flexible solutions, transparent terms, and precise delivery timelines." %}
     </p>
   </div>
 </section>
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const counter = document.getElementById('counter');
     let count = 0;
     const target = 300;
-    const duration = 2000; // 2 секунды
+    const duration = 2000; // 2 seconds
     const increment = target / (duration / 20);
 
     const counterInterval = setInterval(() => {
@@ -54,134 +54,137 @@
   });
 </script>
 
-<!-- Проект: Air Astana -->
+<!-- Project: Air Astana -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade-right">
-        <img src="{% static 'img/airastana.png' %}" alt="Air Astana" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/airastana.png' %}" alt="{% trans 'Air Astana' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-left">
-        <h2 class="text-warning fw-bold mb-4">Air Astana</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Air Astana" %}</h2>
         <p class="fs-5">
-          Спецтехника в аэропортах Астаны и Алматы. <br>
-          Доставка баллонов с кислородом в аэропорт Алматы с полным логистическим сопровождением.
+          {% trans "Special equipment at the airports of Astana and Almaty." %}<br>
+          {% trans "Delivery of oxygen cylinders to Almaty airport with full logistics support." %}
         </p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Проект: Maxwell Distribution -->
+<!-- Project: Maxwell Distribution -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center flex-lg-row-reverse">
       <div class="col-lg-6" data-aos="fade-left">
-        <img src="{% static 'img/maxwell.png' %}" alt="Maxwell" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/maxwell.png' %}" alt="{% trans 'Maxwell' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-right">
-        <h2 class="text-warning fw-bold mb-4">Maxwell Distribution</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Maxwell Distribution" %}</h2>
         <p class="fs-5">
-          Поставка 200+ контейнеров из Китая и Турции. <br>
-          Полное логистическое сопровождение школьного оборудования по Казахстану и СНГ.
+          {% trans "Delivery of 200+ containers from China and Turkey." %}<br>
+          {% trans "Full logistics support for school equipment throughout Kazakhstan and the CIS." %}
         </p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Проект: Freedom Telecom -->
+<!-- Project: Freedom Telecom -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade-right">
-        <img src="{% static 'img/freedom.png' %}" alt="Freedom Telecom" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/freedom.png' %}" alt="{% trans 'Freedom Telecom' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-left">
-        <h2 class="text-warning fw-bold mb-4">Freedom Telecom</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Freedom Telecom" %}</h2>
         <p class="fs-5">
-          Перевозка телеком-оборудования по РК. <br>
-          Логистика для проектов по строительству и модернизации сетей связи.
+          {% trans "Transportation of telecom equipment across Kazakhstan." %}<br>
+          {% trans "Logistics for communication network construction and modernization projects." %}
         </p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Проект: Coca-Cola -->
+<!-- Project: Coca-Cola -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade-right">
-        <img src="{% static 'img/cocacola.jpg' %}" alt="Coca-Cola" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/cocacola.jpg' %}" alt="{% trans 'Coca-Cola' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-left">
-        <h2 class="text-warning fw-bold mb-4">Coca-Cola</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Coca-Cola" %}</h2>
         <p class="fs-5">
-          Обеспечение транспорта для полноценной дистрибьюции продукции<br>
-         с заводов Coca Cola по территории Казахстана.
+          {% trans "Providing transport for full distribution of products" %}<br>
+          {% trans "from Coca-Cola factories across Kazakhstan." %}
         </p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Проект: Казахтелеком -->
+<!-- Project: Kazakhtelecom -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade-right">
-        <img src="{% static 'img/kazaktelekom.png' %}" alt="Казахтелеком" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/kazaktelekom.png' %}" alt="{% trans 'Kazakhtelecom' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-left">
-        <h2 class="text-warning fw-bold mb-4">Казахтелеком</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Kazakhtelecom" %}</h2>
         <p class="fs-5">
-          Поставка телекоммуникационного оборудования. <br>
-          Расширение сети связи по всем регионам Казахстана.
+          {% trans "Supply of telecommunication equipment." %}<br>
+          {% trans "Expansion of communication networks throughout Kazakhstan." %}
         </p>
       </div>
     </div>
   </div>
 </section>
-
+<!-- Project: Kaspi – ZAMMLER -->
 <section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center flex-lg-row-reverse">
       <div class="col-lg-6" data-aos="fade-left">
-        <img src="{% static 'img/zammler.jpg' %}" alt="ZAMMLER" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/zammler.jpg' %}" alt="{% trans 'ZAMMLER' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-right">
-        <h2 class="text-warning fw-bold mb-4">Грузы Kaspi – ZAMMLER</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Kaspi Cargo – ZAMMLER" %}</h2>
         <p class="fs-5">
-          Команда 8AZ предоставляет <span class="highlight-yellow">услуги по магистральным перевозкам</span> грузов компании ZAMMLER по территории Казахстана с использованием стандартных еврофур.
-          От нашей команды выделен <strong>Key Account менеджер</strong>, осуществляющий контроль перевозок 24/7.
+          {% trans "8AZ team provides" %} <span class="highlight-yellow">{% trans "mainline transportation services" %}</span> {% trans "for ZAMMLER across Kazakhstan using standard Euro trucks." %}<br>
+          {% trans "A dedicated" %} <strong>{% trans "Key Account Manager" %}</strong> {% trans "is assigned from our team to monitor shipments 24/7." %}
           <br><br>
-          Особенность проекта — <strong class="highlight-yellow">срочная доставка грузов</strong>, с полным логистическим сопровождением.
+          {% trans "Project highlight —" %} <strong class="highlight-yellow">{% trans "urgent cargo delivery" %}</strong>, {% trans "with full logistics support." %}
         </p>
       </div>
     </div>
   </div>
 </section>
-    <section class="bg-black text-white py-5 rounded-section">
+
+<!-- Project: Kazatomprom Group -->
+<section class="bg-black text-white py-5 rounded-section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade-right">
-        <img src="{% static 'img/Kazatomprom.png' %}" alt="Группа компаний Казатампром" class="img-fluid rounded project-img-custom">
+        <img src="{% static 'img/Kazatomprom.png' %}" alt="{% trans 'Kazatomprom Group' %}" class="img-fluid rounded project-img-custom">
       </div>
       <div class="col-lg-6" data-aos="fade-left">
-        <h2 class="text-warning fw-bold mb-4">Группа компаний Казатампром</h2>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Kazatomprom Group" %}</h2>
         <p class="fs-5">
-          Обслуживание дочерних компаний Казатампром. <br>
-           (Ульбинский Завод, Машзавод, Волковгеология).
+          {% trans "Support for Kazatomprom’s subsidiaries," %}<br>
+          {% trans "(Ulba Plant, Machine Plant, Volkovgeologia)." %}
         </p>
       </div>
     </div>
   </div>
 </section>
-<!-- Кнопка "Оставить заявку" -->
-<section class="bg-black text-white py-5 rounded-section ">
+
+<!-- "Submit a Request" Button -->
+<section class="bg-black text-white py-5 rounded-section">
   <div class="container text-center">
-    <a href="/apply/" class="btn btn-warning btn-lg px-5">Оставить заявку</a>
+    <a href="/apply/" class="btn btn-warning btn-lg px-5">{% trans "Submit a Request" %}</a>
   </div>
 </section>
 

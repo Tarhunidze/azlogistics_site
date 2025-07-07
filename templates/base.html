@@ -1,19 +1,20 @@
 {% load static %}
+{% load i18n %}
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="{% get_current_language %}">
 <head>
   <meta charset="UTF-8">
-  <title>8AZ Logistics — Международные грузоперевозки</title>
+  <title>{% trans "8AZ Logistics — International Freight Transportation" %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- SEO -->
-  <meta name="description" content="8AZ Logistics — международная логистика. 12 лет опыта в грузоперевозках по Казахстану и СНГ. От А до Я.">
-  <meta name="keywords" content="логистика, транспорт, Казахстан, перевозки, 8AZ, 8AZ Logistics, международные перевозки, склад">
+  <meta name="description" content="{% trans "8AZ Logistics — international logistics. 12 years of experience in freight transportation across Kazakhstan and the CIS. From A to Z." %}">
+  <meta name="keywords" content="{% trans "logistics, transport, Kazakhstan, freight, 8AZ, 8AZ Logistics, international transport, warehouse" %}">
   <meta name="author" content="8AZ Logistics">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="8AZ Logistics — Международные грузоперевозки">
-  <meta property="og:description" content="Гарантированная доставка. Опыт — 12 лет. Более 300 успешных проектов.">
+  <meta property="og:title" content="{% trans '8AZ Logistics — International Freight Transportation' %}">
+  <meta property="og:description" content="{% trans 'Guaranteed delivery. 12 years of experience. Over 300 successful projects.' %}">
   <meta property="og:image" content="https://8az.kz/static/img/Logo.png">
   <meta property="og:url" content="https://8az.kz">
   <meta property="og:type" content="website">
@@ -40,8 +41,8 @@
     "email": "director@8az.kz",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Алматы",
-      "streetAddress": "ул. Байтурсынова 113, оф. 15",
+      "addressLocality": "Almaty",
+      "streetAddress": "Baitursynov St. 113, office 15",
       "addressCountry": "KZ"
     },
     "contactPoint": {
@@ -54,7 +55,6 @@
   }
   </script>
 </head>
-
 
 <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
 <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
@@ -72,13 +72,13 @@
     <div class="container-fluid d-flex align-items-center">
       <a class="logo-wrapper text-decoration-none me-4" href="/">
         <img src="{% static 'img/Logo.png' %}" alt="8AZ Logo" class="logo-img me-3">
-      <div class="text-start lh-sm"> <!-- lh-sm = line-height: 1.25 -->
-  <div class="fw-bold fs-4 text-warning m-0">8AZ Logistics</div>
-  <div class="text-white-50 small">
-    <div>International Logistics</div>
-    <div>From A to Z Logistics</div>
-  </div>
-</div>
+        <div class="text-start lh-sm">
+          <div class="fw-bold fs-4 text-warning m-0">8AZ Logistics</div>
+          <div class="text-white-50 small">
+            <div>{% trans "International Logistics" %}</div>
+            <div>{% trans "From A to Z Logistics" %}</div>
+          </div>
+        </div>
       </a>
 
       <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
@@ -86,20 +86,30 @@
       </button>
 
       <div class="collapse navbar-collapse" id="nav">
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-          <li class="nav-item"><a class="nav-link text-white" href="/">О Компании</a></li>
-          <li class="nav-item"><a class="nav-link text-white" href="/services/">Услуги</a></li>
-          <li class="nav-item"><a class="nav-link text-white" href="/projects/">Проекты</a></li>
-          <li class="nav-item"><a class="nav-link text-white" href="/contacts/">Контакты</a></li>
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
+          <li class="nav-item"><a class="nav-link text-white" href="/">{% trans "About Us" %}</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/services/">{% trans "Services" %}</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/projects/">{% trans "Projects" %}</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="/contacts/">{% trans "Contacts" %}</a></li>
           <li class="nav-item">
-            <a class="btn btn-warning ms-3 fw-semibold px-4" href="/apply/">Оставить заявку</a>
+            <a class="btn btn-warning ms-3 fw-semibold px-4" href="/apply/">{% trans "Submit a Request" %}</a>
+          </li>
+
+          <!-- 🌐 Language Switcher -->
+          <li class="nav-item ms-3">
+            <form action="{% url 'set_language' %}" method="post">
+              {% csrf_token %}
+              <select name="language" onchange="this.form.submit()" class="form-select form-select-sm bg-dark text-white border-secondary">
+                <option value="en" {% if LANGUAGE_CODE == 'en' %}selected{% endif %}>🇬🇧</option>
+                <option value="ru" {% if LANGUAGE_CODE == 'ru' %}selected{% endif %}>🇷🇺</option>
+                <option value="zh_Hans" {% if LANGUAGE_CODE == 'zh_Hans' %}selected{% endif %}>🇨🇳</option>
+              </select>
+            </form>
           </li>
         </ul>
       </div>
     </div>
   </nav>
-
-
 
   <main class="py-5">
     <div class="container">
@@ -108,28 +118,25 @@
   </main>
 
   <footer class="footer bg-black text-white py-4 mt-auto border-top border-secondary">
-  <div class="container-fluid text-center small">
-    <p class="mb-1">&copy; 8AZ Logistics {{ now.year }}. Все права защищены.</p>
-    <p class="text-secondary" style="font-size: 0.85rem;">Ваш надёжный партнёр в сфере логистики с 2016 года.</p>
-  </div>
-</footer>
-<!-- Кнопка "Вверх" -->
-<a href="#" id="scrollToTopBtn" class="scroll-to-top" title="Наверх">&#8679;</a>
+    <div class="container-fluid text-center small">
+      <p class="mb-1">&copy; 8AZ Logistics {{ now.year }}. {% trans "All rights reserved." %}</p>
+      <p class="text-secondary" style="font-size: 0.85rem;">{% trans "Your trusted logistics partner since 2016." %}</p>
+    </div>
+  </footer>
 
-<!-- Скрипт для появления кнопки -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const scrollBtn = document.getElementById('scrollToTopBtn');
-    window.addEventListener('scroll', function() {
-      if (window.scrollY > 300) {
-        scrollBtn.classList.add('show');
-      } else {
-        scrollBtn.classList.remove('show');
-      }
+  <a href="#" id="scrollToTopBtn" class="scroll-to-top" title="{% trans 'Back to top' %}">&#8679;</a>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const scrollBtn = document.getElementById('scrollToTopBtn');
+      window.addEventListener('scroll', function() {
+        if (window.scrollY > 300) {
+          scrollBtn.classList.add('show');
+        } else {
+          scrollBtn.classList.remove('show');
+        }
+      });
     });
-  });
-</script>
-
+  </script>
 </body>
 </html>
-

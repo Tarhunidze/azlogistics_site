@@ -1,91 +1,79 @@
 {% extends "base.html" %}
 {% load static %}
+{% load i18n %}
 
 {% block content %}
 
-<!-- Локальные и международные автоперевозки -->
+<!-- Local and International Road Transport -->
 <section class="bg-dark text-white py-5">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade-fade-down">
-        <img src="{% static 'img/gruzoperevozki.jpeg' %}" alt="Автоперевозки" class="img-fluid rounded">
+        <img src="{% static 'img/gruzoperevozki.jpeg' %}" alt="{% trans 'Road Transport' %}" class="img-fluid rounded">
       </div>
       <div class="col-lg-6" data-aos="fade-fade-down">
-        <h2 class="text-warning fw-bold mb-4">Локальные и международные автоперевозки</h2>
-        <p>Мы предоставляем услуги автоперевозок как в пределах Казахстана, так и за его пределами.
-        Собственный парк современного транспорта и проверенные партнёры позволяют оперативно и безопасно доставлять грузы в любую точку страны.
-        Наши маршруты охватывают ключевые торговые и промышленные центры Казахстана, России, Китая и стран Центральной Азии.
-        Для международных перевозок мы обеспечиваем соответствие стандартам качества и соблюдение сроков доставки.</p>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Local and International Road Transport" %}</h2>
+        <p>{% trans "We provide road transportation services both within Kazakhstan and beyond. Our own fleet of modern vehicles and reliable partners allow us to quickly and safely deliver cargo to any part of the country. Our routes cover key trade and industrial centers of Kazakhstan, Russia, China, and Central Asia. For international deliveries, we ensure compliance with quality standards and delivery deadlines." %}</p>
         <div class="mt-4">
-          <p class="fs-5">Хотите узнать стоимость перевозки? Свяжитесь с нами прямо сейчас!</p>
-          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">Оставить заявку</a>
+          <p class="fs-5">{% trans "Want to know the cost of delivery? Contact us now!" %}</p>
+          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">{% trans "Submit a Request" %}</a>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Мультимодальная логистика -->
+<!-- Multimodal Logistics -->
 <section class="bg-black text-white py-5">
   <div class="container">
     <div class="row align-items-center flex-lg-row-reverse">
       <div class="col-lg-6" data-aos="fade-down">
-        <img src="{% static 'img/multimodal.jpeg' %}" alt="Мультимодальная логистика" class="img-fluid rounded">
+        <img src="{% static 'img/multimodal.jpeg' %}" alt="{% trans 'Multimodal Logistics' %}" class="img-fluid rounded">
       </div>
       <div class="col-lg-6" data-aos="fade-down">
-        <h2 class="text-warning fw-bold mb-4">Мультимодальная логистика</h2>
-        <p>Для сложных маршрутов мы предлагаем мультимодальные перевозки, которые объединяют автомобильный, железнодорожный и морской транспорт.
-        Это позволяет оптимизировать время доставки и расходы наших клиентов.
-        Мы занимаемся планированием всех этапов перевозки, включая координацию видов транспорта, таможенное оформление и складирование.
-        Контроль осуществляется на каждом этапе: от завода-отправителя до доставки последней мили в Казахстане.
-        Мы имеем прямые контракты с сухими портами на Хоргосе и Достыке.</p>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Multimodal Logistics" %}</h2>
+        <p>{% trans "For complex routes, we offer multimodal transport combining road, rail, and sea transport. This allows us to optimize delivery time and costs for our clients. We plan every stage of the transport, including coordination of transport types, customs clearance, and warehousing. Control is maintained at every stage — from the sender's factory to last-mile delivery in Kazakhstan. We have direct contracts with dry ports at Khorgos and Dostyk." %}</p>
         <div class="mt-4">
-          <p class="fs-5">Нужна мультимодальная доставка? Наши специалисты помогут вам быстро и эффективно!</p>
-          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">Оставить заявку</a>
+          <p class="fs-5">{% trans "Need multimodal delivery? Our experts will help you quickly and efficiently!" %}</p>
+          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">{% trans "Submit a Request" %}</a>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Полный аутсорсинг логистики -->
+<!-- Full Logistics Outsourcing -->
 <section class="bg-dark text-white py-5">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6" data-aos="fade">
-        <img src="{% static 'img/outsort.jpeg' %}" alt="Аутсорсинг логистики" class="img-fluid service-image-large">
+        <img src="{% static 'img/outsort.jpeg' %}" alt="{% trans 'Logistics Outsourcing' %}" class="img-fluid service-image-large">
       </div>
       <div class="col-lg-6" data-aos="fade">
-        <h2 class="text-warning fw-bold mb-4">Полный аутсорсинг логистики</h2>
-        <p>Мы предоставляем услуги полного аутсорсинга логистики, освобождая наших клиентов от необходимости самостоятельно управлять цепочками поставок.
-        Наши решения включают транспортировку, складирование, организацию погрузочно-разгрузочных работ, предоставление спецтехники и персонала.
-        Мы выстраиваем логистические процессы строго под задачи каждого клиента, обеспечивая оперативность, эффективность и прозрачность на всех этапах.
-        Особенно востребованы услуги по предоставлению грузчиков, кранов и манипуляторов в любом регионе Казахстана.</p>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Full Logistics Outsourcing" %}</h2>
+        <p>{% trans "We offer full logistics outsourcing services, relieving our clients from managing supply chains on their own. Our solutions include transportation, warehousing, loading and unloading, special equipment, and staff. We design logistics processes tailored to each client’s needs, ensuring speed, efficiency, and transparency at all stages. Our services are especially in demand for loaders, cranes, and manipulators across Kazakhstan." %}</p>
         <div class="mt-4">
-          <p class="fs-5">Хотите передать логистику в надёжные руки? Мы готовы взять на себя все заботы!</p>
-          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">Оставить заявку</a>
+          <p class="fs-5">{% trans "Want to outsource logistics to a reliable team? We’ve got you covered!" %}</p>
+          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">{% trans "Submit a Request" %}</a>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Обеспечение спецтехникой -->
+<!-- Special Equipment Rental -->
 <section class="bg-black text-white py-5">
   <div class="container">
     <div class="row align-items-center flex-lg-row-reverse">
       <div class="col-lg-6" data-aos="fade-down">
-        <img src="{% static 'img/spectehnika.jpeg' %}" alt="Аренда спецтехники" class="img-fluid rounded">
+        <img src="{% static 'img/spectehnika.jpeg' %}" alt="{% trans 'Special Equipment Rental' %}" class="img-fluid rounded">
       </div>
       <div class="col-lg-6" data-aos="fade-down">
-        <h2 class="text-warning fw-bold mb-4">Обеспечение спецтехникой</h2>
-        <p>Для реализации крупных проектов и специфических задач мы предоставляем в аренду спецтехнику: манипуляторы, краны, автовышки, ямобуры и другое оборудование.
-        Эти услуги востребованы для строительных, промышленных и инфраструктурных проектов.
-        Мы гарантируем техническую исправность техники и её своевременную подачу в любой регион Казахстана.
-        Наши клиенты: Air Astana, Казахтелеком, Maxwell и другие крупные компании, которым мы предоставляем высоконадежные решения.</p>
+        <h2 class="text-warning fw-bold mb-4">{% trans "Special Equipment Rental" %}</h2>
+        <p>{% trans "For large-scale projects and specific tasks, we provide rental of special equipment such as cranes, truck-mounted cranes, aerial platforms, earth augers, and more. These services are essential for construction, industrial, and infrastructure projects. We guarantee the technical readiness of equipment and timely delivery across Kazakhstan. Our clients include Air Astana, Kazakhtelecom, Maxwell, and other major companies." %}</p>
         <div class="mt-4">
-          <p class="fs-5">Нужна спецтехника для вашего проекта? Давайте обсудим детали!</p>
-          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">Оставить заявку</a>
+          <p class="fs-5">{% trans "Need special equipment for your project? Let’s discuss the details!" %}</p>
+          <a href="/apply/" class="btn btn-warning btn-lg mt-3 px-5">{% trans "Submit a Request" %}</a>
         </div>
       </div>
     </div>
@@ -93,4 +81,3 @@
 </section>
 
 {% endblock %}
-ы
