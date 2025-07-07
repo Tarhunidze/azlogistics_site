@@ -1,0 +1,1939 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-07 22:43+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgid "8AZ Logistics — International Freight Transportation"
+msgstr "8AZ Logistics — International Freight Transportation"
+
+msgid "8AZ Logistics — international logistics. 12 years of experience in freight transportation across Kazakhstan and the CIS. From A to Z."
+msgstr "8AZ Logistics — international logistics. 12 years of experience in freight transportation across Kazakhstan and the CIS. From A to Z."
+
+msgid "logistics, transport, Kazakhstan, freight, 8AZ, 8AZ Logistics, international transport, warehouse"
+msgstr "logistics, transport, Kazakhstan, freight, 8AZ, 8AZ Logistics, international transport, warehouse"
+
+msgid "Guaranteed delivery. 12 years of experience. Over 300 successful projects."
+msgstr "Guaranteed delivery. 12 years of experience. Over 300 successful projects."
+
+msgid "International Logistics"
+msgstr "International Logistics"
+
+msgid "From A to Z Logistics"
+msgstr "From A to Z Logistics"
+
+msgid "About Us"
+msgstr "About Us"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Submit a Request"
+msgstr "Submit a Request"
+
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+msgid "Your trusted logistics partner since 2016."
+msgstr "Your trusted logistics partner since 2016."
+
+msgid "Back to top"
+msgstr "Back to top"
+
+msgid "We are always in touch — write or call us:"
+msgstr "We are always in touch — write or call us:"
+
+msgid "Address:"
+msgstr "Address:"
+
+msgid "Almaty, Baitursynov St. 113, office 15"
+msgstr "Almaty, Baitursynov St. 113, office 15"
+
+msgid "Phone:"
+msgstr "Phone:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Leave a request"
+msgstr "Leave a request"
+
+msgid "Your trusted partner"
+msgstr "Your trusted partner"
+
+msgid "in transport logistics"
+msgstr "in transport logistics"
+
+msgid "Project logistics"
+msgstr "Project logistics"
+
+msgid "Long-term contracts"
+msgstr "Long-term contracts"
+
+msgid "Client-focused services"
+msgstr "Client-focused services"
+
+msgid "years"
+msgstr "years"
+
+msgid "of market experience"
+msgstr "of market experience"
+
+msgid "completed projects"
+msgstr "completed projects"
+
+msgid "support"
+msgstr "support"
+
+msgid "Transport truck"
+msgstr "Transport truck"
+
+msgid "About 8AZ Logistics"
+msgstr "About 8AZ Logistics"
+
+msgid ""
+"Since 2016, 8AZ Logistics has been providing comprehensive logistics "
+"services in Kazakhstan and beyond. We specialize in long-term contracts "
+"tailored to clients' needs and offer A-to-Z services."
+msgstr ""
+"Since 2016, 8AZ Logistics has been providing comprehensive logistics "
+"services in Kazakhstan and beyond. We specialize in long-term contracts "
+"tailored to clients' needs and offer A-to-Z services."
+
+msgid ""
+"Today, we operate 3 offices across Kazakhstan, have a team of more than 30 "
+"professionals, and process over 5 billion KZT in annual cargo turnover."
+msgstr ""
+"Today, we operate 3 offices across Kazakhstan, have a team of more than 30 "
+"professionals, and process over 5 billion KZT in annual cargo turnover."
+
+msgid "9 years of experience"
+msgstr "9 years of experience"
+
+msgid "proven reliability"
+msgstr "proven reliability"
+
+msgid "International and local transport"
+msgstr "International and local transport"
+
+msgid "Russia, China, CIS"
+msgstr "Russia, China, CIS"
+
+msgid "Own fleet and equipment"
+msgstr "Own fleet and equipment"
+
+msgid "cranes, manipulators, aerial platforms"
+msgstr "cranes, manipulators, aerial platforms"
+
+msgid "24/7 support"
+msgstr "24/7 support"
+
+msgid "personal Key Account manager"
+msgstr "personal Key Account manager"
+
+msgid "8AZ in Numbers"
+msgstr "8AZ in Numbers"
+
+msgid "years of experience"
+msgstr "years of experience"
+
+msgid "offices in Kazakhstan"
+msgstr "offices in Kazakhstan"
+
+msgid "specialists"
+msgstr "specialists"
+
+msgid "annual cargo turnover"
+msgstr "annual cargo turnover"
+
+msgid "The uniqueness of"
+msgstr "The uniqueness of"
+
+msgid "is in our focus on"
+msgstr "is in our focus on"
+
+msgid "long-term contracts"
+msgstr "long-term contracts"
+
+msgid "with our partners and on"
+msgstr "with our partners and on"
+
+msgid "building services tailored to client needs"
+msgstr "building services tailored to client needs"
+
+msgid "based on operational and strategic goals."
+msgstr "based on operational and strategic goals."
+
+msgid "Our Services"
+msgstr "Our Services"
+
+msgid "Cargo Transport"
+msgstr "Cargo Transport"
+
+msgid "Domestic and international transportation using all types of vehicles."
+msgstr "Domestic and international transportation using all types of vehicles."
+
+msgid "Special Equipment"
+msgstr "Special Equipment"
+
+msgid "Cranes, manipulators, aerial platforms, and more."
+msgstr "Cranes, manipulators, aerial platforms, and more."
+
+msgid "Logistics Outsourcing"
+msgstr "Logistics Outsourcing"
+
+msgid "We handle all logistics processes for your company."
+msgstr "We handle all logistics processes for your company."
+
+msgid "Multimodal Transport"
+msgstr "Multimodal Transport"
+
+msgid "Optimal routes with combined delivery methods."
+msgstr "Optimal routes with combined delivery methods."
+
+msgid "Our History"
+msgstr "Our History"
+
+msgid ""
+"Foundation of 8AZ Logistics. First office opened. Started operations as a "
+"freight forwarder in Kazakhstan."
+msgstr ""
+"Foundation of 8AZ Logistics. First office opened. Started operations as a "
+"freight forwarder in Kazakhstan."
+
+msgid "Partnership with Kazatomprom for forwarding containers from France."
+msgstr "Partnership with Kazatomprom for forwarding containers from France."
+
+msgid ""
+"Expansion into international transportation from China and Southeast Asia. "
+"Team grew to 20 people."
+msgstr ""
+"Expansion into international transportation from China and Southeast Asia. "
+"Team grew to 20 people."
+
+msgid ""
+"Branches opened in Nur-Sultan and Shymkent. Fleet expanded. Local logistics "
+"developed."
+msgstr ""
+"Branches opened in Nur-Sultan and Shymkent. Fleet expanded. Local logistics "
+"developed."
+
+msgid "Service for major corporations: Ulba Plant, Kazakhtelecom, Air Astana."
+msgstr "Service for major corporations: Ulba Plant, Kazakhtelecom, Air Astana."
+
+msgid ""
+"Cargo flow from China: about 450 containers per year. Cooperation with dry "
+"ports Khorgos and Dostyk."
+msgstr ""
+"Cargo flow from China: about 450 containers per year. Cooperation with dry "
+"ports Khorgos and Dostyk."
+
+msgid ""
+"5 billion KZT turnover. 30+ employees. 3 offices in Kazakhstan. Expanded "
+"multimodal and outsourced logistics."
+msgstr ""
+"5 billion KZT turnover. 30+ employees. 3 offices in Kazakhstan. Expanded "
+"multimodal and outsourced logistics."
+
+msgid "Our Advantages"
+msgstr "Our Advantages"
+
+msgid "Personal Manager"
+msgstr "Personal Manager"
+
+msgid "Personal Key Account Manager"
+msgstr "Personal Key Account Manager"
+
+msgid ""
+"Each client is assigned a personal manager available 24/7 to solve key "
+"issues."
+msgstr ""
+"Each client is assigned a personal manager available 24/7 to solve key "
+"issues."
+
+msgid "A to Z Services"
+msgstr "A to Z Services"
+
+msgid ""
+"Full support: from international transport with customs to loaders and "
+"equipment."
+msgstr ""
+"Full support: from international transport with customs to loaders and "
+"equipment."
+
+msgid "Web Portal"
+msgstr "Web Portal"
+
+msgid "Web Portal for Your Business"
+msgstr "Web Portal for Your Business"
+
+msgid "Custom IT solution for tracking requests and optimizing logistics."
+msgstr "Custom IT solution for tracking requests and optimizing logistics."
+
+msgid "Our Clients"
+msgstr "Our Clients"
+
+msgid "Technical supplies and logistics for aviation equipment."
+msgstr "Technical supplies and logistics for aviation equipment."
+
+msgid "Packaging and delivery of goods in Kazakhstan and CIS."
+msgstr "Packaging and delivery of goods in Kazakhstan and CIS."
+
+msgid "Transport of telecommunications systems and components."
+msgstr "Transport of telecommunications systems and components."
+
+msgid "Kazakhtelecom"
+msgstr "Kazakhtelecom"
+
+msgid "Delivery and installation of equipment in regions."
+msgstr "Delivery and installation of equipment in regions."
+
+msgid "Regular retail deliveries without delays."
+msgstr "Regular retail deliveries without delays."
+
+msgid "Kazatomprom Group"
+msgstr "Kazatomprom Group"
+
+msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
+msgstr "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
+
+msgid "Gruzov Kaspi – ZAMMLER"
+msgstr "Gruzov Kaspi – ZAMMLER"
+
+msgid "Urgent trunk transportation. 24/7 monitoring."
+msgstr "Urgent trunk transportation. 24/7 monitoring."
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Almaty, Baitursynov str. 113, office 15"
+msgstr "Almaty, Baitursynov str. 113, office 15"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Send a message"
+msgstr "Send a message"
+
+
+#: .\templates\orders\apply.html:8
+msgid "Leave a Request"
+msgstr "Leave a Request"
+
+#: .\templates\orders\apply.html:10
+msgid ""
+"Leave your contact information, choose a service type, and we will contact "
+"you for consultation."
+msgstr ""
+"Leave your contact information, choose a service type, and we will contact "
+"you for consultation."
+
+#: .\templates\orders\apply.html:17
+msgid "Full Name"
+msgstr "Full Name"
+
+#: .\templates\orders\apply.html:18
+msgid "Enter your full name"
+msgstr "Enter your full name"
+
+#: .\templates\orders\apply.html:23
+msgid "Enter your phone number"
+msgstr "Enter your phone number"
+
+#: .\templates\orders\apply.html:28
+msgid "Enter your email"
+msgstr "Enter your email"
+
+#: .\templates\orders\apply.html:32
+msgid "Request Type"
+msgstr "Request Type"
+
+#: .\templates\orders\apply.html:34
+msgid "Choose..."
+msgstr "Choose..."
+
+#: .\templates\orders\apply.html:35
+msgid "Consolidated cargo transportation (LTL)"
+msgstr "Consolidated cargo transportation (LTL)"
+
+#: .\templates\orders\apply.html:36
+msgid "Full truckload transportation (FTL)"
+msgstr "Full truckload transportation (FTL)"
+
+#: .\templates\orders\apply.html:37
+msgid "Oversized cargo transportation"
+msgstr "Oversized cargo transportation"
+
+#: .\templates\orders\apply.html:38
+msgid "Railway transportation"
+msgstr "Railway transportation"
+
+#: .\templates\orders\apply.html:39
+msgid "Air freight"
+msgstr "Air freight"
+
+#: .\templates\orders\apply.html:40
+msgid "Customs clearance"
+msgstr "Customs clearance"
+
+#: .\templates\orders\apply.html:41
+msgid "Relocation and personal belongings"
+msgstr "Relocation and personal belongings"
+
+#: .\templates\orders\apply.html:46
+msgid "Comment"
+msgstr "Comment"
+
+#: .\templates\orders\apply.html:47
+msgid "Additional details..."
+msgstr "Additional details..."
+
+#: .\templates\orders\apply.html:51
+msgid "Submit Request"
+msgstr "Submit Request"
+
+#: .\templates\orders\success.html:8
+msgid "Success"
+msgstr "Success"
+
+#: .\templates\orders\success.html:9
+msgid "Thank you for your request!"
+msgstr "Thank you for your request!"
+
+#: .\templates\orders\success.html:11
+msgid "We have received your information and will contact you shortly."
+msgstr "We have received your information and will contact you shortly."
+
+#: .\templates\orders\success.html:13
+msgid "Return to homepage"
+msgstr "Return to homepage"
+#: .\templates\projects\projects.html:9
+msgid "Our Completed Projects"
+msgstr "Our Completed Projects"
+
+#: .\templates\projects\projects.html:11
+msgid ""
+"8AZ Logistics has successfully completed hundreds of projects for leading "
+"companies in Kazakhstan, delivering reliable logistics, speed, and "
+"professionalism."
+msgstr ""
+"8AZ Logistics has successfully completed hundreds of projects for leading "
+"companies in Kazakhstan, delivering reliable logistics, speed, and "
+"professionalism."
+
+#: .\templates\projects\projects.html:20
+msgid "Successfully Completed Projects"
+msgstr "Successfully Completed Projects"
+
+#: .\templates\projects\projects.html:22
+msgid ""
+"Since 2016, 8AZ Logistics has proven to be a reliable partner in logistics "
+"and transportation. We have successfully served the largest companies in "
+"Kazakhstan and the CIS, including Air Astana, Kazatomprom, Freedom Telecom, "
+"Kazakhtelecom, and others."
+msgstr ""
+"Since 2016, 8AZ Logistics has proven to be a reliable partner in logistics "
+"and transportation. We have successfully served the largest companies in "
+"Kazakhstan and the CIS, including Air Astana, Kazatomprom, Freedom Telecom, "
+"Kazakhtelecom, and others."
+
+#: .\templates\projects\projects.html:25
+msgid "International and local transportation of equipment and goods"
+msgstr "International and local transportation of equipment and goods"
+
+#: .\templates\projects\projects.html:26
+msgid "Multimodal routes through Kazakhstan, China, Russia, and CIS countries"
+msgstr "Multimodal routes through Kazakhstan, China, Russia, and CIS countries"
+
+#: .\templates\projects\projects.html:27
+msgid ""
+"Specialized logistics for aviation, telecommunications, and manufacturing "
+"industries"
+msgstr ""
+"Specialized logistics for aviation, telecommunications, and manufacturing "
+"industries"
+
+#: .\templates\projects\projects.html:28
+msgid "Outsourcing of logistics processes for corporate clients"
+msgstr "Outsourcing of logistics processes for corporate clients"
+
+#: .\templates\projects\projects.html:29
+msgid "Delivery to remote regions and industrial zones"
+msgstr "Delivery to remote regions and industrial zones"
+
+#: .\templates\projects\projects.html:32
+msgid ""
+"We pride ourselves on flexible solutions, transparent terms, and precise "
+"delivery timelines."
+msgstr ""
+"We pride ourselves on flexible solutions, transparent terms, and precise "
+"delivery timelines."
+
+#: .\templates\projects\projects.html:62 .\templates\projects\projects.html:65
+msgid "Air Astana"
+msgstr "Air Astana"
+
+#: .\templates\projects\projects.html:67
+msgid "Special equipment at the airports of Astana and Almaty."
+msgstr "Special equipment at the airports of Astana and Almaty."
+
+#: .\templates\projects\projects.html:68
+msgid ""
+"Delivery of oxygen cylinders to Almaty airport with full logistics support."
+msgstr "Delivery of oxygen cylinders to Almaty airport with full logistics support."
+
+#: .\templates\projects\projects.html:80
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#: .\templates\projects\projects.html:83
+msgid "Maxwell Distribution"
+msgstr "Maxwell Distribution"
+
+#: .\templates\projects\projects.html:85
+msgid "Delivery of 200+ containers from China and Turkey."
+msgstr "Delivery of 200+ containers from China and Turkey."
+
+#: .\templates\projects\projects.html:86
+msgid ""
+"Full logistics support for school equipment throughout Kazakhstan and the "
+"CIS."
+msgstr ""
+"Full logistics support for school equipment throughout Kazakhstan and the "
+"CIS."
+
+#: .\templates\projects\projects.html:98 .\templates\projects\projects.html:101
+msgid "Freedom Telecom"
+msgstr "Freedom Telecom"
+
+#: .\templates\projects\projects.html:103
+msgid "Transportation of telecom equipment across Kazakhstan."
+msgstr "Transportation of telecom equipment across Kazakhstan."
+
+#: .\templates\projects\projects.html:104
+msgid ""
+"Logistics for communication network construction and modernization projects."
+msgstr ""
+"Logistics for communication network construction and modernization projects."
+
+#: .\templates\projects\projects.html:116 .\templates\projects\projects.html:119
+msgid "Coca-Cola"
+msgstr "Coca-Cola"
+
+#: .\templates\projects\projects.html:121
+msgid "Providing transport for full distribution of products"
+msgstr "Providing transport for full distribution of products"
+
+#: .\templates\projects\projects.html:122
+msgid "from Coca-Cola factories across Kazakhstan."
+msgstr "from Coca-Cola factories across Kazakhstan."
+
+#: .\templates\projects\projects.html:139
+msgid "Supply of telecommunication equipment."
+msgstr "Supply of telecommunication equipment."
+
+#: .\templates\projects\projects.html:140
+msgid "Expansion of communication networks throughout Kazakhstan."
+msgstr "Expansion of communication networks throughout Kazakhstan."
+
+#: .\templates\projects\projects.html:151
+msgid "ZAMMLER"
+msgstr "ZAMMLER"
+
+#: .\templates\projects\projects.html:154
+msgid "Kaspi Cargo – ZAMMLER"
+msgstr "Kaspi Cargo – ZAMMLER"
+
+#: .\templates\projects\projects.html:156
+msgid "8AZ team provides"
+msgstr "8AZ team provides"
+
+#: .\templates\projects\projects.html:156
+msgid "mainline transportation services"
+msgstr "mainline transportation services"
+
+#: .\templates\projects\projects.html:156
+msgid "for ZAMMLER across Kazakhstan using standard Euro trucks."
+msgstr "for ZAMMLER across Kazakhstan using standard Euro trucks."
+
+#: .\templates\projects\projects.html:157
+msgid "A dedicated"
+msgstr "A dedicated"
+
+#: .\templates\projects\projects.html:157
+msgid "Key Account Manager"
+msgstr "Key Account Manager"
+
+#: .\templates\projects\projects.html:157
+msgid "is assigned from our team to monitor shipments 24/7."
+msgstr "is assigned from our team to monitor shipments 24/7."
+
+#: .\templates\projects\projects.html:159
+msgid "Project highlight —"
+msgstr "Project highlight —"
+
+#: .\templates\projects\projects.html:159
+msgid "urgent cargo delivery"
+msgstr "urgent cargo delivery"
+
+#: .\templates\projects\projects.html:159
+msgid "with full logistics support."
+msgstr "with full logistics support."
+
+#: .\templates\projects\projects.html:176
+msgid "Support for Kazatomprom’s subsidiaries,"
+msgstr "Support for Kazatomprom’s subsidiaries,"
+
+#: .\templates\projects\projects.html:177
+msgid "(Ulba Plant, Machine Plant, Volkovgeologia)."
+msgstr "(Ulba Plant, Machine Plant, Volkovgeologia)."
+
+#: .\templates\services\services.html:12
+msgid "Road Transport"
+msgstr "Road Transport"
+
+#: .\templates\services\services.html:15
+msgid "Local and International Road Transport"
+msgstr "Local and International Road Transport"
+
+#: .\templates\services\services.html:16
+msgid ""
+"We provide road transportation services both within Kazakhstan and beyond. "
+"Our own fleet of modern vehicles and reliable partners allow us to quickly "
+"and safely deliver cargo to any part of the country. Our routes cover key "
+"trade and industrial centers of Kazakhstan, Russia, China, and Central Asia. "
+"For international deliveries, we ensure compliance with quality standards "
+"and delivery deadlines."
+msgstr ""
+"We provide road transportation services both within Kazakhstan and beyond. "
+"Our own fleet of modern vehicles and reliable partners allow us to quickly "
+"and safely deliver cargo to any part of the country. Our routes cover key "
+"trade and industrial centers of Kazakhstan, Russia, China, and Central Asia. "
+"For international deliveries, we ensure compliance with quality standards "
+"and delivery deadlines."
+
+#: .\templates\services\services.html:18
+msgid "Want to know the cost of delivery? Contact us now!"
+msgstr "Want to know the cost of delivery? Contact us now!"
+
+#: .\templates\services\services.html:31 .\templates\services\services.html:34
+msgid "Multimodal Logistics"
+msgstr "Multimodal Logistics"
+
+#: .\templates\services\services.html:35
+msgid ""
+"For complex routes, we offer multimodal transport combining road, rail, and "
+"sea transport. This allows us to optimize delivery time and costs for our "
+"clients. We plan every stage of the transport, including coordination of "
+"transport types, customs clearance, and warehousing. Control is maintained "
+"at every stage — from the sender's factory to last-mile delivery in "
+"Kazakhstan. We have direct contracts with dry ports at Khorgos and Dostyk."
+msgstr ""
+"For complex routes, we offer multimodal transport combining road, rail, and "
+"sea transport. This allows us to optimize delivery time and costs for our "
+"clients. We plan every stage of the transport, including coordination of "
+"transport types, customs clearance, and warehousing. Control is maintained "
+"at every stage — from the sender's factory to last-mile delivery in "
+"Kazakhstan. We have direct contracts with dry ports at Khorgos and Dostyk."
+
+#: .\templates\services\services.html:37
+msgid ""
+"Need multimodal delivery? Our experts will help you quickly and efficiently!"
+msgstr ""
+"Need multimodal delivery? Our experts will help you quickly and efficiently!"
+
+#: .\templates\services\services.html:53
+msgid "Full Logistics Outsourcing"
+msgstr "Full Logistics Outsourcing"
+
+#: .\templates\services\services.html:54
+msgid ""
+"We offer full logistics outsourcing services, relieving our clients from "
+"managing supply chains on their own. Our solutions include transportation, "
+"warehousing, loading and unloading, special equipment, and staff. We design "
+"logistics processes tailored to each client’s needs, ensuring speed, "
+"efficiency, and transparency at all stages. Our services are especially in "
+"demand for loaders, cranes, and manipulators across Kazakhstan."
+msgstr ""
+"We offer full logistics outsourcing services, relieving our clients from "
+"managing supply chains on their own. Our solutions include transportation, "
+"warehousing, loading and unloading, special equipment, and staff. We design "
+"logistics processes tailored to each client’s needs, ensuring speed, "
+"efficiency, and transparency at all stages. Our services are especially in "
+"demand for loaders, cranes, and manipulators across Kazakhstan."
+
+#: .\templates\services\services.html:56
+msgid "Want to outsource logistics to a reliable team? We’ve got you covered!"
+msgstr "Want to outsource logistics to a reliable team? We’ve got you covered!"
+
+#: .\templates\services\services.html:69 .\templates\services\services.html:72
+msgid "Special Equipment Rental"
+msgstr "Special Equipment Rental"
+
+#: .\templates\services\services.html:73
+msgid ""
+"For large-scale projects and specific tasks, we provide rental of special "
+"equipment such as cranes, truck-mounted cranes, aerial platforms, earth "
+"augers, and more. These services are essential for construction, industrial, "
+"and infrastructure projects. We guarantee the technical readiness of "
+"equipment and timely delivery across Kazakhstan. Our clients include Air "
+"Astana, Kazakhtelecom, Maxwell, and other major companies."
+msgstr ""
+"For large-scale projects and specific tasks, we provide rental of special "
+"equipment such as cranes, truck-mounted cranes, aerial platforms, earth "
+"augers, and more. These services are essential for construction, industrial, "
+"and infrastructure projects. We guarantee the technical readiness of "
+"equipment and timely delivery across Kazakhstan. Our clients include Air "
+"Astana, Kazakhtelecom, Maxwell, and other major companies."
+
+#: .\templates\services\services.html:75
+msgid "Need special equipment for your project? Let’s discuss the details!"
+msgstr "Need special equipment for your project? Let’s discuss the details!"
+
+#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:16
+msgid "Messages"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\syndication\apps.py:7
+msgid "Syndication"
+msgstr ""
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: .\venv\Lib\site-packages\django\core\paginator.py:30
+msgid "…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:32
+msgid "That page number is not an integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:33
+msgid "That page number is less than 1"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:34
+msgid "That page contains no results"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:22
+msgid "Enter a valid value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:70
+msgid "Enter a valid domain name."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:153
+#: .\venv\Lib\site-packages\django\forms\fields.py:775
+msgid "Enter a valid URL."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:200
+msgid "Enter a valid integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:211
+msgid "Enter a valid email address."
+msgstr ""
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\venv\Lib\site-packages\django\core\validators.py:289
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:297
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:309
+#: .\venv\Lib\site-packages\django\core\validators.py:318
+#: .\venv\Lib\site-packages\django\core\validators.py:332
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2220
+#, python-format
+msgid "Enter a valid %(protocol)s address."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:311
+msgid "IPv4"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:320
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:43
+msgid "IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:334
+msgid "IPv4 or IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:375
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:381
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:416
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:425
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:434
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:441
+#, python-format
+msgid ""
+"Ensure this value is a multiple of step size %(limit_value)s, starting from "
+"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:473
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:491
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:514
+#: .\venv\Lib\site-packages\django\forms\fields.py:366
+#: .\venv\Lib\site-packages\django\forms\fields.py:405
+msgid "Enter a number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:516
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:521
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:526
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:597
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:659
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1600
+#: .\venv\Lib\site-packages\django\forms\models.py:908
+msgid "and"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1602
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\constraints.py:22
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:134
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:135
+msgid "This field cannot be null."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:136
+msgid "This field cannot be blank."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:137
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:141
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:180
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1162
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1163
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1165
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1215
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1217
+msgid "String (unlimited)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1326
+msgid "Comma-separated integers"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1427
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1431
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1566
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1435
+msgid "Date (without time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1562
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1570
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1575
+msgid "Date (with time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1702
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1704
+msgid "Decimal number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1864
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1868
+msgid "Duration"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1920
+msgid "Email address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1945
+msgid "File path"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2023
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2025
+msgid "Floating point number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2065
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2067
+msgid "Integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2163
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2180
+msgid "Small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2188
+msgid "IPv4 address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2219
+msgid "IP address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2310
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2311
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2313
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2364
+msgid "Positive big integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2379
+msgid "Positive integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2394
+msgid "Positive small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2410
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2446
+msgid "Text"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2526
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2530
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2534
+msgid "Time"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2642
+msgid "URL"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2666
+msgid "Raw binary data"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2731
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2733
+msgid "Universally unique identifier"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:244
+msgid "File"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:420
+msgid "Image"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:24
+msgid "A JSON object"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:26
+msgid "Value must be valid JSON."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:978
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:981
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1275
+msgid "One-to-one relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1332
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1334
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1382
+msgid "Many-to-many relationship"
+msgstr ""
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: .\venv\Lib\site-packages\django\forms\boundfield.py:185
+msgid ":?.!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:95
+msgid "This field is required."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:315
+msgid "Enter a whole number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:486
+#: .\venv\Lib\site-packages\django\forms\fields.py:1267
+msgid "Enter a valid date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:509
+#: .\venv\Lib\site-packages\django\forms\fields.py:1268
+msgid "Enter a valid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:536
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:570
+msgid "Enter a valid duration."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:571
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:640
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:641
+msgid "No file was submitted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:642
+msgid "The submitted file is empty."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:644
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:649
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:717
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:889
+#: .\venv\Lib\site-packages\django\forms\fields.py:975
+#: .\venv\Lib\site-packages\django\forms\models.py:1592
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:977
+#: .\venv\Lib\site-packages\django\forms\fields.py:1096
+#: .\venv\Lib\site-packages\django\forms\models.py:1590
+msgid "Enter a list of values."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1097
+msgid "Enter a complete value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1339
+msgid "Enter a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1369
+msgid "Enter a valid JSON."
+msgstr ""
+
+#. Translators: This is the default suffix added to form field labels
+#: .\venv\Lib\site-packages\django\forms\forms.py:97
+msgid ":"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\forms.py:239
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:65
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:70
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:484
+#: .\venv\Lib\site-packages\django\forms\formsets.py:491
+msgid "Order"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:499
+msgid "Delete"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:901
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:906
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:913
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:922
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1359
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1450
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1594
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\utils.py:229
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:527
+msgid "Clear"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:528
+msgid "Currently"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:529
+msgid "Change"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:866
+msgid "Unknown"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:867
+msgid "Yes"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:868
+msgid "No"
+msgstr ""
+
+#. Translators: Please do not add spaces around commas.
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:873
+msgid "yes,no,maybe"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:903
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:920
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:922
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:924
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:926
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:928
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:930
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:74
+msgid "p.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:75
+msgid "a.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:80
+msgid "PM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:81
+msgid "AM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:153
+msgid "midnight"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:155
+msgid "noon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:7
+msgid "Monday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:8
+msgid "Tuesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:9
+msgid "Wednesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Thursday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:11
+msgid "Friday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:12
+msgid "Saturday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:13
+msgid "Sunday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:16
+msgid "Mon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:17
+msgid "Tue"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:18
+msgid "Wed"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "Thu"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "Fri"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:21
+msgid "Sat"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:22
+msgid "Sun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:25
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:26
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:27
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:28
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:29
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:30
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:31
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:32
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:33
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:34
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:35
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:36
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:39
+msgid "jan"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:40
+msgid "feb"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:41
+msgid "mar"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:42
+msgid "apr"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:43
+msgid "may"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:44
+msgid "jun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:45
+msgid "jul"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:46
+msgid "aug"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:47
+msgid "sep"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:48
+msgid "oct"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:49
+msgid "nov"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:50
+msgid "dec"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:20
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:67
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:278
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: .\venv\Lib\site-packages\django\utils\text.py:297
+#: .\venv\Lib\site-packages\django\utils\timesince.py:135
+msgid ", "
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:29
+msgid "Forbidden"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:30
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:34
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:40
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:45
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:54
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:60
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:66
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:44
+msgid "No year specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:64
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:115
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:214
+msgid "Date out of range"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:94
+msgid "No month specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:147
+msgid "No day specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:194
+msgid "No week specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:353
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:384
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:680
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:720
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:173
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:49
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:51
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:68
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:8
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:11
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:204
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:206
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:208
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:217
+msgid "Django Documentation"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:218
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:226
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:227
+msgid "Get started with Django"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:235
+msgid "Django Community"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:236
+msgid "Connect, get help, or contribute"
+msgstr ""

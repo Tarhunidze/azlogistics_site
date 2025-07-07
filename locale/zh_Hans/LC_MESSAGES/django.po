@@ -1,0 +1,1927 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-07 22:43+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\templates\base.html:7 .\templates\base.html:16
+msgid "8AZ Logistics — International Freight Transportation"
+msgstr "8AZ物流 — 国际货物运输"
+
+#: .\templates\base.html:11
+msgid ""
+"8AZ Logistics — international logistics. 12 years of experience in freight "
+"transportation across Kazakhstan and the CIS. From A to Z."
+msgstr "8AZ物流 — 国际物流公司。拥有12年在哈萨克斯坦及独联体国家的货物运输经验，提供从A到Z的一站式服务。"
+
+#: .\templates\base.html:12
+msgid ""
+"logistics, transport, Kazakhstan, freight, 8AZ, 8AZ Logistics, international "
+"transport, warehouse"
+msgstr "物流, 运输, 哈萨克斯坦, 货运, 8AZ, 8AZ物流, 国际运输, 仓储"
+
+#: .\templates\base.html:17
+msgid ""
+"Guaranteed delivery. 12 years of experience. Over 300 successful projects."
+msgstr "交付有保障。12年经验，300多个成功项目。"
+
+#: .\templates\base.html:78
+msgid "International Logistics"
+msgstr "国际物流"
+
+#: .\templates\base.html:79
+msgid "From A to Z Logistics"
+msgstr "从A到Z的物流服务"
+
+#: .\templates\base.html:90
+msgid "About Us"
+msgstr "关于我们"
+
+#: .\templates\base.html:91
+msgid "Services"
+msgstr "服务"
+
+#: .\templates\base.html:92
+msgid "Projects"
+msgstr "项目"
+
+#: .\templates\base.html:93 .\templates\contacts\contact.html:12
+#: .\templates\main\index.html:306
+msgid "Contacts"
+msgstr "联系方式"
+
+#: .\templates\base.html:95 .\templates\projects\projects.html:187
+#: .\templates\services\services.html:19 .\templates\services\services.html:38
+#: .\templates\services\services.html:57 .\templates\services\services.html:76
+msgid "Submit a Request"
+msgstr "提交申请"
+
+#: .\templates\base.html:122
+msgid "All rights reserved."
+msgstr "版权所有。"
+
+#: .\templates\base.html:123
+msgid "Your trusted logistics partner since 2016."
+msgstr "自2016年以来您值得信赖的物流合作伙伴。"
+
+#: .\templates\base.html:127
+msgid "Back to top"
+msgstr "返回顶部"
+#: .\templates\contacts\contact.html:13
+msgid "We are always in touch — write or call us:"
+msgstr "我们始终在线 — 欢迎来电或留言："
+
+#: .\templates\contacts\contact.html:15
+msgid "Address:"
+msgstr "地址："
+
+#: .\templates\contacts\contact.html:16
+msgid "Almaty, Baitursynov St. 113, office 15"
+msgstr "阿拉木图，拜图尔瑟诺夫街113号，15室"
+
+#: .\templates\contacts\contact.html:18
+msgid "Phone:"
+msgstr "电话："
+
+#: .\templates\contacts\contact.html:22
+msgid "Email:"
+msgstr "邮箱："
+
+#: .\templates\contacts\contact.html:32 .\templates\main\index.html:36
+msgid "Leave a request"
+msgstr "留下您的申请"
+
+#: .\templates\main\index.html:11
+msgid "Your trusted partner"
+msgstr "您值得信赖的合作伙伴"
+
+#: .\templates\main\index.html:12
+msgid "in transport logistics"
+msgstr "在运输物流领域"
+
+#: .\templates\main\index.html:15
+msgid "Project logistics"
+msgstr "项目物流"
+
+#: .\templates\main\index.html:16
+msgid "Long-term contracts"
+msgstr "长期合同"
+
+#: .\templates\main\index.html:17
+msgid "Client-focused services"
+msgstr "以客户为中心的服务"
+
+#: .\templates\main\index.html:22
+msgid "years"
+msgstr "年"
+
+#: .\templates\main\index.html:23
+msgid "of market experience"
+msgstr "市场经验"
+
+#: .\templates\main\index.html:27
+msgid "completed projects"
+msgstr "已完成项目"
+
+#: .\templates\main\index.html:31
+msgid "support"
+msgstr "支持"
+
+#: .\templates\main\index.html:41
+msgid "Transport truck"
+msgstr "运输卡车"
+
+#: .\templates\main\index.html:50
+msgid "About 8AZ Logistics"
+msgstr "关于8AZ物流"
+
+#: .\templates\main\index.html:53
+msgid ""
+"Since 2016, 8AZ Logistics has been providing comprehensive logistics "
+"services in Kazakhstan and beyond. We specialize in long-term contracts "
+"tailored to clients' needs and offer A-to-Z services."
+msgstr "自2016年以来，8AZ物流一直在哈萨克斯坦及其他地区提供全面的物流服务。我们专注于根据客户需求定制的长期合同，提供从A到Z的一站式服务。"
+
+#: .\templates\main\index.html:54
+msgid ""
+"Today, we operate 3 offices across Kazakhstan, have a team of more than 30 "
+"professionals, and process over 5 billion KZT in annual cargo turnover."
+msgstr "目前，我们在哈萨克斯坦设有3个办事处，拥有30多名专业人员，年货物运输总量超过50亿坚戈。"
+
+#: .\templates\main\index.html:58
+msgid "9 years of experience"
+msgstr "9年经验"
+
+#: .\templates\main\index.html:58
+msgid "proven reliability"
+msgstr "经验证的可靠性"
+
+#: .\templates\main\index.html:59
+msgid "International and local transport"
+msgstr "国际及本地运输"
+
+#: .\templates\main\index.html:59
+msgid "Russia, China, CIS"
+msgstr "俄罗斯、中国、独联体"
+
+#: .\templates\main\index.html:60
+msgid "Own fleet and equipment"
+msgstr "自有车队和设备"
+
+#: .\templates\main\index.html:60
+msgid "cranes, manipulators, aerial platforms"
+msgstr "起重机、机械臂、高空作业平台"
+
+#: .\templates\main\index.html:61
+msgid "24/7 support"
+msgstr "全天候支持"
+
+#: .\templates\main\index.html:61
+msgid "personal Key Account manager"
+msgstr "专属客户经理"
+
+#: .\templates\main\index.html:117 .\templates\main\index.html:118
+msgid "Special Equipment"
+msgstr "特种设备"
+
+#: .\templates\main\index.html:119
+msgid "Cranes, manipulators, aerial platforms, and more."
+msgstr "起重机、机械臂、高空平台等。"
+
+#: .\templates\main\index.html:125 .\templates\main\index.html:126
+#: .\templates\services\services.html:50
+msgid "Logistics Outsourcing"
+msgstr "物流外包"
+
+#: .\templates\main\index.html:127
+msgid "We handle all logistics processes for your company."
+msgstr "我们为您的公司处理所有物流流程。"
+
+#: .\templates\main\index.html:133 .\templates\main\index.html:134
+msgid "Multimodal Transport"
+msgstr "多式联运"
+
+#: .\templates\main\index.html:135
+msgid "Optimal routes with combined delivery methods."
+msgstr "结合多种运输方式，制定最优路线。"
+
+#: .\templates\main\index.html:146
+msgid "Our History"
+msgstr "我们的历程"
+
+#: .\templates\main\index.html:152
+msgid ""
+"Foundation of 8AZ Logistics. First office opened. Started operations as a "
+"freight forwarder in Kazakhstan."
+msgstr "8AZ物流成立，开设第一家办公室，开始在哈萨克斯坦作为货运代理商开展业务。"
+
+#: .\templates\main\index.html:159
+msgid "Partnership with Kazatomprom for forwarding containers from France."
+msgstr "与哈原工（Kazatomprom）合作，从法国运输集装箱。"
+
+#: .\templates\main\index.html:166
+msgid ""
+"Expansion into international transportation from China and Southeast Asia. "
+"Team grew to 20 people."
+msgstr "扩展至来自中国和东南亚的国际运输，团队人数增至20人。"
+
+#: .\templates\main\index.html:173
+msgid ""
+"Branches opened in Nur-Sultan and Shymkent. Fleet expanded. Local logistics "
+"developed."
+msgstr "在努尔苏丹和奇姆肯特开设分支机构，扩展车队，发展本地物流。"
+
+#: .\templates\main\index.html:180
+msgid "Service for major corporations: Ulba Plant, Kazakhtelecom, Air Astana."
+msgstr "为大型企业提供服务：乌尔巴工厂、哈萨克电信、阿斯塔纳航空。"
+
+#: .\templates\main\index.html:187
+msgid ""
+"Cargo flow from China: about 450 containers per year. Cooperation with dry "
+"ports Khorgos and Dostyk."
+msgstr "来自中国的货物流量：每年约450个集装箱。与霍尔果斯和多斯特克的干港合作。"
+
+#: .\templates\main\index.html:194
+msgid ""
+"5 billion KZT turnover. 30+ employees. 3 offices in Kazakhstan. Expanded "
+"multimodal and outsourced logistics."
+msgstr "年营业额达50亿坚戈。员工超30人。在哈萨克斯坦设有3家办事处，扩大多式联运和物流外包服务。"
+
+#: .\templates\main\index.html:205
+msgid "Our Advantages"
+msgstr "我们的优势"
+
+#: .\templates\main\index.html:210
+msgid "Personal Manager"
+msgstr "专属经理"
+
+#: .\templates\main\index.html:211
+msgid "Personal Key Account Manager"
+msgstr "专属客户经理"
+
+#: .\templates\main\index.html:212
+msgid ""
+"Each client is assigned a personal manager available 24/7 to solve key "
+"issues."
+msgstr "每位客户配备一名全天候在线的专属经理，及时解决关键问题。"
+
+#: .\templates\main\index.html:218 .\templates\main\index.html:219
+msgid "A to Z Services"
+msgstr "全方位服务"
+
+#: .\templates\main\index.html:220
+msgid ""
+"Full support: from international transport with customs to loaders and "
+"equipment."
+msgstr "全程支持：从国际运输与清关到装卸和设备服务。"
+
+#: .\templates\main\index.html:226
+msgid "Web Portal"
+msgstr "网络门户"
+
+#: .\templates\main\index.html:227
+msgid "Web Portal for Your Business"
+msgstr "为您企业定制的网络平台"
+
+#: .\templates\main\index.html:228
+msgid "Custom IT solution for tracking requests and optimizing logistics."
+msgstr "定制化IT解决方案，用于请求跟踪与物流优化。"
+
+#: .\templates\main\index.html:240
+msgid "Our Clients"
+msgstr "我们的客户"
+
+#: .\templates\main\index.html:247
+msgid "Technical supplies and logistics for aviation equipment."
+msgstr "为航空设备提供技术物资和物流支持。"
+
+#: .\templates\main\index.html:255
+msgid "Packaging and delivery of goods in Kazakhstan and CIS."
+msgstr "在哈萨克斯坦及独联体国家的货物包装与配送服务。"
+
+#: .\templates\main\index.html:263
+msgid "Transport of telecommunications systems and components."
+msgstr "运输电信系统及其组件。"
+
+#: .\templates\main\index.html:270 .\templates\projects\projects.html:134
+#: .\templates\projects\projects.html:137
+msgid "Kazakhtelecom"
+msgstr "哈萨克电信"
+
+#: .\templates\main\index.html:271
+msgid "Delivery and installation of equipment in regions."
+msgstr "区域设备的运输与安装。"
+
+#: .\templates\main\index.html:279
+msgid "Regular retail deliveries without delays."
+msgstr "定期零售配送，确保无延迟。"
+
+#: .\templates\main\index.html:286 .\templates\projects\projects.html:171
+#: .\templates\projects\projects.html:174
+msgid "Kazatomprom Group"
+msgstr "哈原工集团"
+
+#: .\templates\main\index.html:287
+msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
+msgstr "为乌尔巴工厂、机械厂和沃尔科夫地质公司提供物流服务。"
+
+#: .\templates\main\index.html:294
+msgid "Gruzov Kaspi – ZAMMLER"
+msgstr "Kaspi货运 — ZAMMLER"
+
+#: .\templates\main\index.html:295
+msgid "Urgent trunk transportation. 24/7 monitoring."
+msgstr "紧急干线运输，全天候监控。"
+
+#: .\templates\main\index.html:311
+msgid "Location"
+msgstr "地址"
+
+#: .\templates\main\index.html:312
+msgid "Almaty, Baitursynov str. 113, office 15"
+msgstr "阿拉木图，拜图尔瑟诺夫街113号，15办公室"
+#: .\templates\main\index.html:315 .\templates\orders\apply.html:22
+msgid "Phone"
+msgstr "电话"
+
+#: .\templates\main\index.html:319
+msgid "Email"
+msgstr "电子邮箱"
+
+#: .\templates\main\index.html:322
+msgid "Send a message"
+msgstr "发送信息"
+
+#: .\templates\orders\apply.html:8
+msgid "Leave a Request"
+msgstr "提交请求"
+
+#: .\templates\orders\apply.html:10
+msgid ""
+"Leave your contact information, choose a service type, and we will contact "
+"you for consultation."
+msgstr "请留下您的联系方式并选择服务类型，我们将与您联系以提供咨询。"
+
+#: .\templates\orders\apply.html:17
+msgid "Full Name"
+msgstr "姓名"
+
+#: .\templates\orders\apply.html:18
+msgid "Enter your full name"
+msgstr "请输入您的姓名"
+
+#: .\templates\orders\apply.html:23
+msgid "Enter your phone number"
+msgstr "请输入您的电话号码"
+
+#: .\templates\orders\apply.html:28
+msgid "Enter your email"
+msgstr "请输入您的电子邮箱"
+
+#: .\templates\orders\apply.html:32
+msgid "Request Type"
+msgstr "请求类型"
+
+#: .\templates\orders\apply.html:34
+msgid "Choose..."
+msgstr "请选择..."
+
+
+#: .\templates\orders\apply.html:35
+msgid "Consolidated cargo transportation (LTL)"
+msgstr "零担货物运输（LTL）"
+
+#: .\templates\orders\apply.html:36
+msgid "Full truckload transportation (FTL)"
+msgstr "整车运输（FTL）"
+
+#: .\templates\orders\apply.html:37
+msgid "Oversized cargo transportation"
+msgstr "超大件货物运输"
+
+#: .\templates\orders\apply.html:38
+msgid "Railway transportation"
+msgstr "铁路运输"
+
+#: .\templates\orders\apply.html:39
+msgid "Air freight"
+msgstr "空运"
+
+#: .\templates\orders\apply.html:40
+msgid "Customs clearance"
+msgstr "清关服务"
+
+#: .\templates\orders\apply.html:41
+msgid "Relocation and personal belongings"
+msgstr "搬迁与个人物品运输"
+
+#: .\templates\orders\apply.html:46
+msgid "Comment"
+msgstr "备注"
+
+#: .\templates\orders\apply.html:47
+msgid "Additional details..."
+msgstr "附加信息..."
+
+#: .\templates\orders\apply.html:51
+msgid "Submit Request"
+msgstr "提交请求"
+
+#: .\templates\orders\success.html:8
+msgid "Success"
+msgstr "成功"
+
+#: .\templates\orders\success.html:9
+msgid "Thank you for your request!"
+msgstr "感谢您的请求！"
+
+#: .\templates\orders\success.html:11
+msgid "We have received your information and will contact you shortly."
+msgstr "我们已收到您的信息，将尽快与您联系。"
+
+#: .\templates\orders\success.html:13
+msgid "Return to homepage"
+msgstr "返回首页"
+
+
+#: .\templates\projects\projects.html:9
+msgid "Our Completed Projects"
+msgstr "我们的已完成项目"
+
+#: .\templates\projects\projects.html:11
+msgid ""
+"8AZ Logistics has successfully completed hundreds of projects for leading "
+"companies in Kazakhstan, delivering reliable logistics, speed, and "
+"professionalism."
+msgstr "8AZ物流已为哈萨克斯坦多家领先企业成功完成数百个项目，提供可靠、迅速、专业的物流服务。"
+
+#: .\templates\projects\projects.html:20
+msgid "Successfully Completed Projects"
+msgstr "成功完成的项目"
+
+#: .\templates\projects\projects.html:22
+msgid ""
+"Since 2016, 8AZ Logistics has proven to be a reliable partner in logistics "
+"and transportation. We have successfully served the largest companies in "
+"Kazakhstan and the CIS, including Air Astana, Kazatomprom, Freedom Telecom, "
+"Kazakhtelecom, and others."
+msgstr "自2016年以来，8AZ物流已被证明是物流与运输领域值得信赖的合作伙伴。我们成功为哈萨克斯坦及独联体的多家大型企业提供服务，包括阿斯塔纳航空、哈原工、自由电信、哈萨克电信等。"
+
+#: .\templates\projects\projects.html:25
+msgid "International and local transportation of equipment and goods"
+msgstr "设备与货物的国际及本地运输"
+
+#: .\templates\projects\projects.html:26
+msgid "Multimodal routes through Kazakhstan, China, Russia, and CIS countries"
+msgstr "覆盖哈萨克斯坦、中国、俄罗斯及独联体国家的多式联运路线"
+
+#: .\templates\projects\projects.html:27
+msgid ""
+"Specialized logistics for aviation, telecommunications, and manufacturing "
+"industries"
+msgstr "为航空、电信及制造业提供专业物流服务"
+
+#: .\templates\projects\projects.html:28
+msgid "Outsourcing of logistics processes for corporate clients"
+msgstr "为企业客户提供物流流程外包服务"
+
+#: .\templates\projects\projects.html:29
+msgid "Delivery to remote regions and industrial zones"
+msgstr "向偏远地区及工业园区配送"
+
+#: .\templates\projects\projects.html:32
+msgid ""
+"We pride ourselves on flexible solutions, transparent terms, and precise "
+"delivery timelines."
+msgstr "我们以灵活的解决方案、透明的条款和准确的交付时间为荣。"
+
+
+#: .\templates\projects\projects.html:62 .\templates\projects\projects.html:65
+msgid "Air Astana"
+msgstr "阿斯塔纳航空"
+
+#: .\templates\projects\projects.html:67
+msgid "Special equipment at the airports of Astana and Almaty."
+msgstr "在阿斯塔纳和阿拉木图机场部署特种设备。"
+
+#: .\templates\projects\projects.html:68
+msgid "Delivery of oxygen cylinders to Almaty airport with full logistics support."
+msgstr "为阿拉木图机场运输氧气瓶并提供完整物流支持。"
+
+#: .\templates\projects\projects.html:80
+msgid "Maxwell"
+msgstr "麦克斯韦"
+
+#: .\templates\projects\projects.html:83
+msgid "Maxwell Distribution"
+msgstr "麦克斯韦配送"
+
+#: .\templates\projects\projects.html:85
+msgid "Delivery of 200+ containers from China and Turkey."
+msgstr "从中国和土耳其运送200多个集装箱。"
+
+#: .\templates\projects\projects.html:86
+msgid "Full logistics support for school equipment throughout Kazakhstan and the CIS."
+msgstr "为哈萨克斯坦及独联体各地的学校设备提供全方位物流支持。"
+
+#: .\templates\projects\projects.html:98 .\templates\projects\projects.html:101
+msgid "Freedom Telecom"
+msgstr "自由电信"
+
+#: .\templates\projects\projects.html:103
+msgid "Transportation of telecom equipment across Kazakhstan."
+msgstr "在哈萨克斯坦境内运输电信设备。"
+
+#: .\templates\projects\projects.html:104
+msgid "Logistics for communication network construction and modernization projects."
+msgstr "为通信网络建设与现代化项目提供物流支持。"
+
+#: .\templates\projects\projects.html:116
+#: .\templates\projects\projects.html:119
+msgid "Coca-Cola"
+msgstr "可口可乐"
+
+#: .\templates\projects\projects.html:121
+msgid "Providing transport for full distribution of products"
+msgstr "为产品的全面分销提供运输服务"
+
+#: .\templates\projects\projects.html:122
+msgid "from Coca-Cola factories across Kazakhstan."
+msgstr "从哈萨克斯坦各地的可口可乐工厂出发。"
+
+#: .\templates\projects\projects.html:139
+msgid "Supply of telecommunication equipment."
+msgstr "提供电信设备。"
+
+#: .\templates\projects\projects.html:140
+msgid "Expansion of communication networks throughout Kazakhstan."
+msgstr "在哈萨克斯坦全境扩展通信网络。"
+
+#: .\templates\projects\projects.html:151
+msgid "ZAMMLER"
+msgstr "ZAMMLER"
+
+#: .\templates\projects\projects.html:154
+msgid "Kaspi Cargo – ZAMMLER"
+msgstr "Kaspi Cargo – ZAMMLER"
+
+#: .\templates\projects\projects.html:156
+msgid "8AZ team provides"
+msgstr "8AZ 团队提供"
+
+#: .\templates\projects\projects.html:156
+msgid "mainline transportation services"
+msgstr "干线运输服务"
+
+#: .\templates\projects\projects.html:156
+msgid "for ZAMMLER across Kazakhstan using standard Euro trucks."
+msgstr "使用标准欧式卡车为 ZAMMLER 提供哈萨克斯坦境内的运输服务。"
+
+#: .\templates\projects\projects.html:157
+msgid "A dedicated"
+msgstr "一位专属的"
+
+#: .\templates\projects\projects.html:157
+msgid "Key Account Manager"
+msgstr "大客户经理"
+
+#: .\templates\projects\projects.html:157
+msgid "is assigned from our team to monitor shipments 24/7."
+msgstr "由我们团队分配一名大客户经理全天候监控运输情况。"
+
+#: .\templates\projects\projects.html:159
+msgid "Project highlight —"
+msgstr "项目亮点 —"
+
+#: .\templates\projects\projects.html:159
+msgid "urgent cargo delivery"
+msgstr "紧急货物配送"
+
+#: .\templates\projects\projects.html:159
+msgid "with full logistics support."
+msgstr "并提供全面物流支持。"
+
+#: .\templates\projects\projects.html:176
+msgid "Support for Kazatomprom’s subsidiaries,"
+msgstr "为哈原工子公司提供支持，"
+
+#: .\templates\projects\projects.html:177
+msgid "(Ulba Plant, Machine Plant, Volkovgeologia)."
+msgstr "（乌尔巴冶金厂、机械厂、沃尔科夫地质公司）。"
+#: .\templates\services\services.html:12
+msgid "Road Transport"
+msgstr "公路运输"
+
+#: .\templates\services\services.html:15
+msgid "Local and International Road Transport"
+msgstr "本地及国际公路运输"
+
+#: .\templates\services\services.html:16
+msgid ""
+"We provide road transportation services both within Kazakhstan and beyond. "
+"Our own fleet of modern vehicles and reliable partners allow us to quickly "
+"and safely deliver cargo to any part of the country. Our routes cover key "
+"trade and industrial centers of Kazakhstan, Russia, China, and Central Asia. "
+"For international deliveries, we ensure compliance with quality standards "
+"and delivery deadlines."
+msgstr ""
+"我们提供哈萨克斯坦境内及国际公路运输服务。自有现代化车辆和可靠合作伙伴可确保快速、安全地将货物送达全国各地。我们的路线覆盖哈萨克斯坦、俄罗斯、中国和中亚的主要贸易和工业中心。国际运输中我们确保质量标准和交付时效。"
+
+#: .\templates\services\services.html:18
+msgid "Want to know the cost of delivery? Contact us now!"
+msgstr "想了解运费？立即联系我们！"
+
+#: .\templates\services\services.html:31 .\templates\services\services.html:34
+msgid "Multimodal Logistics"
+msgstr "多式联运物流"
+
+#: .\templates\services\services.html:35
+msgid ""
+"For complex routes, we offer multimodal transport combining road, rail, and "
+"sea transport. This allows us to optimize delivery time and costs for our "
+"clients. We plan every stage of the transport, including coordination of "
+"transport types, customs clearance, and warehousing. Control is maintained "
+"at every stage — from the sender's factory to last-mile delivery in "
+"Kazakhstan. We have direct contracts with dry ports at Khorgos and Dostyk."
+msgstr ""
+"针对复杂路线，我们提供公路、铁路和海运结合的多式联运服务。这帮助客户优化运输时间和成本。我们规划运输的每一个阶段，包括运输方式的协调、清关和仓储管理。从发货工厂到哈萨克斯坦的末端配送，全程均有监控。我们与霍尔果斯和多斯特克的内陆港有直接合同。"
+
+#: .\templates\services\services.html:37
+msgid "Need multimodal delivery? Our experts will help you quickly and efficiently!"
+msgstr "需要多式联运？我们的专家将为您提供快速高效的支持！"
+
+#: .\templates\services\services.html:53
+msgid "Full Logistics Outsourcing"
+msgstr "物流全流程外包"
+
+#: .\templates\services\services.html:54
+msgid ""
+"We offer full logistics outsourcing services, relieving our clients from "
+"managing supply chains on their own. Our solutions include transportation, "
+"warehousing, loading and unloading, special equipment, and staff. We design "
+"logistics processes tailored to each client’s needs, ensuring speed, "
+"efficiency, and transparency at all stages. Our services are especially in "
+"demand for loaders, cranes, and manipulators across Kazakhstan."
+msgstr ""
+"我们提供全方位的物流外包服务，帮助客户摆脱繁琐的供应链管理。服务内容涵盖运输、仓储、装卸、特种设备及人员配置。我们根据客户的具体需求量身定制物流流程，确保各阶段的速度、效率与透明度。装载机、起重机和吊臂设备的需求在哈萨克斯坦尤其旺盛。"
+
+#: .\templates\services\services.html:56
+msgid "Want to outsource logistics to a reliable team? We’ve got you covered!"
+msgstr "想将物流外包给可靠团队？我们为您保驾护航！"
+
+#: .\templates\services\services.html:69 .\templates\services\services.html:72
+msgid "Special Equipment Rental"
+msgstr "特种设备租赁"
+
+#: .\templates\services\services.html:73
+msgid ""
+"For large-scale projects and specific tasks, we provide rental of special "
+"equipment such as cranes, truck-mounted cranes, aerial platforms, earth "
+"augers, and more. These services are essential for construction, industrial, "
+"and infrastructure projects. We guarantee the technical readiness of "
+"equipment and timely delivery across Kazakhstan. Our clients include Air "
+"Astana, Kazakhtelecom, Maxwell, and other major companies."
+msgstr ""
+"针对大型项目和特定任务，我们提供起重机、随车吊、高空作业平台、钻孔机等特种设备租赁服务。这些服务广泛应用于建筑、工业和基础设施项目。我们保证设备技术状态良好，并能按时交付至哈萨克斯坦各地。客户包括阿斯塔纳航空、哈萨克电信、麦克斯韦等知名企业。"
+
+#: .\templates\services\services.html:75
+msgid "Need special equipment for your project? Let’s discuss the details!"
+msgstr "您的项目需要特种设备？欢迎详谈合作！"
+
+#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:16
+msgid "Messages"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\syndication\apps.py:7
+msgid "Syndication"
+msgstr ""
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: .\venv\Lib\site-packages\django\core\paginator.py:30
+msgid "…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:32
+msgid "That page number is not an integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:33
+msgid "That page number is less than 1"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:34
+msgid "That page contains no results"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:22
+msgid "Enter a valid value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:70
+msgid "Enter a valid domain name."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:153
+#: .\venv\Lib\site-packages\django\forms\fields.py:775
+msgid "Enter a valid URL."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:200
+msgid "Enter a valid integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:211
+msgid "Enter a valid email address."
+msgstr ""
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\venv\Lib\site-packages\django\core\validators.py:289
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:297
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:309
+#: .\venv\Lib\site-packages\django\core\validators.py:318
+#: .\venv\Lib\site-packages\django\core\validators.py:332
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2220
+#, python-format
+msgid "Enter a valid %(protocol)s address."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:311
+msgid "IPv4"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:320
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:43
+msgid "IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:334
+msgid "IPv4 or IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:375
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:381
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:416
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:425
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:434
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:441
+#, python-format
+msgid ""
+"Ensure this value is a multiple of step size %(limit_value)s, starting from "
+"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:473
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:491
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:514
+#: .\venv\Lib\site-packages\django\forms\fields.py:366
+#: .\venv\Lib\site-packages\django\forms\fields.py:405
+msgid "Enter a number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:516
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:521
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:526
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:597
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:659
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1600
+#: .\venv\Lib\site-packages\django\forms\models.py:908
+msgid "and"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1602
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\constraints.py:22
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:134
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:135
+msgid "This field cannot be null."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:136
+msgid "This field cannot be blank."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:137
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:141
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:180
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1162
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1163
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1165
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1215
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1217
+msgid "String (unlimited)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1326
+msgid "Comma-separated integers"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1427
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1431
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1566
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1435
+msgid "Date (without time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1562
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1570
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1575
+msgid "Date (with time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1702
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1704
+msgid "Decimal number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1864
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1868
+msgid "Duration"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1920
+msgid "Email address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1945
+msgid "File path"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2023
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2025
+msgid "Floating point number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2065
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2067
+msgid "Integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2163
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2180
+msgid "Small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2188
+msgid "IPv4 address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2219
+msgid "IP address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2310
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2311
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2313
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2364
+msgid "Positive big integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2379
+msgid "Positive integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2394
+msgid "Positive small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2410
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2446
+msgid "Text"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2526
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2530
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2534
+msgid "Time"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2642
+msgid "URL"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2666
+msgid "Raw binary data"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2731
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2733
+msgid "Universally unique identifier"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:244
+msgid "File"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:420
+msgid "Image"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:24
+msgid "A JSON object"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:26
+msgid "Value must be valid JSON."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:978
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:981
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1275
+msgid "One-to-one relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1332
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1334
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1382
+msgid "Many-to-many relationship"
+msgstr ""
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the label
+#: .\venv\Lib\site-packages\django\forms\boundfield.py:185
+msgid ":?.!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:95
+msgid "This field is required."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:315
+msgid "Enter a whole number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:486
+#: .\venv\Lib\site-packages\django\forms\fields.py:1267
+msgid "Enter a valid date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:509
+#: .\venv\Lib\site-packages\django\forms\fields.py:1268
+msgid "Enter a valid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:536
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:570
+msgid "Enter a valid duration."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:571
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:640
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:641
+msgid "No file was submitted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:642
+msgid "The submitted file is empty."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:644
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:649
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:717
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:889
+#: .\venv\Lib\site-packages\django\forms\fields.py:975
+#: .\venv\Lib\site-packages\django\forms\models.py:1592
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:977
+#: .\venv\Lib\site-packages\django\forms\fields.py:1096
+#: .\venv\Lib\site-packages\django\forms\models.py:1590
+msgid "Enter a list of values."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1097
+msgid "Enter a complete value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1339
+msgid "Enter a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1369
+msgid "Enter a valid JSON."
+msgstr ""
+
+#. Translators: This is the default suffix added to form field labels
+#: .\venv\Lib\site-packages\django\forms\forms.py:97
+msgid ":"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\forms.py:239
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:65
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:70
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:484
+#: .\venv\Lib\site-packages\django\forms\formsets.py:491
+msgid "Order"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:499
+msgid "Delete"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:901
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:906
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:913
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:922
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1359
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1450
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1594
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\utils.py:229
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:527
+msgid "Clear"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:528
+msgid "Currently"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:529
+msgid "Change"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:866
+msgid "Unknown"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:867
+msgid "Yes"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:868
+msgid "No"
+msgstr ""
+
+#. Translators: Please do not add spaces around commas.
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:873
+msgid "yes,no,maybe"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:903
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:920
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:922
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:924
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:926
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:928
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:930
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:74
+msgid "p.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:75
+msgid "a.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:80
+msgid "PM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:81
+msgid "AM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:153
+msgid "midnight"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:155
+msgid "noon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:7
+msgid "Monday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:8
+msgid "Tuesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:9
+msgid "Wednesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Thursday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:11
+msgid "Friday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:12
+msgid "Saturday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:13
+msgid "Sunday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:16
+msgid "Mon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:17
+msgid "Tue"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:18
+msgid "Wed"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "Thu"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "Fri"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:21
+msgid "Sat"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:22
+msgid "Sun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:25
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:26
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:27
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:28
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:29
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:30
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:31
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:32
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:33
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:34
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:35
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:36
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:39
+msgid "jan"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:40
+msgid "feb"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:41
+msgid "mar"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:42
+msgid "apr"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:43
+msgid "may"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:44
+msgid "jun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:45
+msgid "jul"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:46
+msgid "aug"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:47
+msgid "sep"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:48
+msgid "oct"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:49
+msgid "nov"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:50
+msgid "dec"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:20
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:67
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:278
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: .\venv\Lib\site-packages\django\utils\text.py:297
+#: .\venv\Lib\site-packages\django\utils\timesince.py:135
+msgid ", "
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:29
+msgid "Forbidden"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:30
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:34
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:40
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:45
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:54
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:60
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:66
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:44
+msgid "No year specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:64
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:115
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:214
+msgid "Date out of range"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:94
+msgid "No month specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:147
+msgid "No day specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:194
+msgid "No week specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:353
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:384
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:680
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:720
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:173
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:49
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:51
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:68
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:8
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:11
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:204
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:206
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:208
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:217
+msgid "Django Documentation"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:218
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:226
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:227
+msgid "Get started with Django"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:235
+msgid "Django Community"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:236
+msgid "Connect, get help, or contribute"
+msgstr ""
