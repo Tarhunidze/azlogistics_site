@@ -119,8 +119,8 @@ LANGUAGE_CODE = 'en'
 
 LANGUAGES = [
     ('en', 'English'),
-    ('ru', 'Russian'),
-    ('zh_Hans', 'Chinese'),
+    ('ru', 'Русский'),
+    ('zh-hans', '中文'),
 ]
 
 LOCALE_PATHS = [
