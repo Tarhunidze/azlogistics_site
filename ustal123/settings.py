@@ -120,7 +120,7 @@ LANGUAGE_CODE = 'en'
 LANGUAGES = [
     ('en', 'English'),
     ('ru', 'Русский'),
-    ('zh-Hans', '中文'),
+    ('zh-hans', '中文'),
 ]
 
 LOCALE_PATHS = [
