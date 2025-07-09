@@ -411,12 +411,12 @@ msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
 msgstr "Логистика для Ульбинского завода, Машзавода и Волковгеологии."
 
 #: .\templates\main\index.html:294
-msgid "Gruzov Kaspi – ZAMMLER"
-msgstr "Грузов Каспи — ZAMMLER"
+msgid "Kaspi e-commerce cargo"
+msgstr "Грузы Каспи магазина"
 
 #: .\templates\main\index.html:295
-msgid "Urgent trunk transportation. 24/7 monitoring."
-msgstr "Срочные магистральные перевозки. Мониторинг 24/7."
+msgid " Intercity transportation of Kaspi.kz cargo. 24/7 monitoring."
+msgstr "Транспортировка товаров магазина Kaspi.kz"
 
 #: .\templates\main\index.html:311
 msgid "Location"
@@ -645,7 +645,7 @@ msgid "ZAMMLER"
 msgstr "ZAMMLER"
 
 #: .\templates\projects\projects.html:154
-msgid "Kaspi Cargo – ZAMMLER"
+msgid "Kaspi e-commerce cargo"
 msgstr "Каспи Карго — ZAMMLER"
 
 #: .\templates\projects\projects.html:156

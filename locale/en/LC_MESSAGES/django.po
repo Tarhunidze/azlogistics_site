@@ -318,11 +318,11 @@ msgstr "Kazatomprom Group"
 msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
 msgstr "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
 
-msgid "Gruzov Kaspi – ZAMMLER"
-msgstr "Gruzov Kaspi – ZAMMLER"
+msgid "Kaspi e-commerce cargo"
+msgstr "Kaspi e-commerce cargo"
 
-msgid "Urgent trunk transportation. 24/7 monitoring."
-msgstr "Urgent trunk transportation. 24/7 monitoring."
+msgid " Intercity transportation of Kaspi.kz cargo. 24/7 monitoring."
+msgstr " Intercity transportation of Kaspi.kz cargo. 24/7 monitoring."
 
 msgid "Location"
 msgstr "Location"
@@ -565,8 +565,8 @@ msgid "ZAMMLER"
 msgstr "ZAMMLER"
 
 #: .\templates\projects\projects.html:154
-msgid "Kaspi Cargo – ZAMMLER"
-msgstr "Kaspi Cargo – ZAMMLER"
+msgid "Kaspi e-commerce cargo"
+msgstr "Kaspi e-commerce cargo"
 
 #: .\templates\projects\projects.html:156
 msgid "8AZ team provides"
