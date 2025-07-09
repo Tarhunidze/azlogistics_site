@@ -396,9 +396,7 @@ msgstr "Kazatomprom Group"
 msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
 msgstr "为乌尔巴工厂、机械厂和沃尔科夫地质公司提供物流服务。"
 
-#: .\templates\main\index.html:294
-msgid "Kaspi e-commerce cargo"
-msgstr "Kaspi 电子商务货运"
+
 
 #: .\templates\main\index.html:295
 msgid "Intercity transportation of Kaspi.kz cargo. 24/7 monitoring."
