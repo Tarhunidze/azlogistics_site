@@ -194,6 +194,63 @@ msgstr "全天候支持"
 msgid "personal Key Account manager"
 msgstr "专属客户经理"
 
+#: .\templates\main\index.html:72
+msgid "8AZ in Numbers"
+msgstr "8AZ 数字速览"
+
+#: .\templates\main\index.html:76
+msgid "years of experience"
+msgstr "年经验"
+
+#: .\templates\main\index.html:80
+msgid "offices in Kazakhstan"
+msgstr "在哈萨克斯坦的办事处"
+
+#: .\templates\main\index.html:84
+msgid "specialists"
+msgstr "名专家"
+
+#: .\templates\main\index.html:88
+msgid "annual cargo turnover"
+msgstr "年货运周转量"
+
+#: .\templates\main\index.html:93
+msgid "The uniqueness of"
+msgstr "…的独特性在于"
+
+#: .\templates\main\index.html:93
+msgid "is in our focus on"
+msgstr "我们专注于"
+
+#: .\templates\main\index.html:94
+msgid "long-term contracts"
+msgstr "长期合作协议"
+
+#: .\templates\main\index.html:94
+msgid "with our partners and on"
+msgstr "与合作伙伴，并专注于"
+
+#: .\templates\main\index.html:95
+msgid "building services tailored to client needs"
+msgstr "打造量身定制的服务"
+
+#: .\templates\main\index.html:96
+msgid "based on operational and strategic goals."
+msgstr "基于运营和战略目标。"
+
+#: .\templates\main\index.html:105
+msgid "Our Services"
+msgstr "我们的服务"
+
+#: .\templates\main\index.html:109 .\templates\main\index.html:110
+msgid "Cargo Transport"
+msgstr "货物运输"
+
+#: .\templates\main\index.html:111
+msgid "Domestic and international transportation using all types of vehicles."
+msgstr "使用各种运输工具进行国内外运输。"
+
+
 #: .\templates\main\index.html:117 .\templates\main\index.html:118
 msgid "Special Equipment"
 msgstr "特种设备"
@@ -320,7 +377,7 @@ msgstr "运输电信系统及其组件。"
 #: .\templates\main\index.html:270 .\templates\projects\projects.html:134
 #: .\templates\projects\projects.html:137
 msgid "Kazakhtelecom"
-msgstr "哈萨克电信"
+msgstr "Kazakhtelecom"
 
 #: .\templates\main\index.html:271
 msgid "Delivery and installation of equipment in regions."
@@ -333,7 +390,7 @@ msgstr "定期零售配送，确保无延迟。"
 #: .\templates\main\index.html:286 .\templates\projects\projects.html:171
 #: .\templates\projects\projects.html:174
 msgid "Kazatomprom Group"
-msgstr "哈原工集团"
+msgstr "Kazatomprom Group"
 
 #: .\templates\main\index.html:287
 msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
@@ -341,7 +398,7 @@ msgstr "为乌尔巴工厂、机械厂和沃尔科夫地质公司提供物流服
 
 #: .\templates\main\index.html:294
 msgid "Gruzov Kaspi – ZAMMLER"
-msgstr "Kaspi货运 — ZAMMLER"
+msgstr "Gruzov Kaspi – ZAMMLER"
 
 #: .\templates\main\index.html:295
 msgid "Urgent trunk transportation. 24/7 monitoring."
@@ -512,7 +569,7 @@ msgstr "我们以灵活的解决方案、透明的条款和准确的交付时间
 
 #: .\templates\projects\projects.html:62 .\templates\projects\projects.html:65
 msgid "Air Astana"
-msgstr "阿斯塔纳航空"
+msgstr "Air Astana"
 
 #: .\templates\projects\projects.html:67
 msgid "Special equipment at the airports of Astana and Almaty."
@@ -524,11 +581,11 @@ msgstr "为阿拉木图机场运输氧气瓶并提供完整物流支持。"
 
 #: .\templates\projects\projects.html:80
 msgid "Maxwell"
-msgstr "麦克斯韦"
+msgstr "Maxwell"
 
 #: .\templates\projects\projects.html:83
 msgid "Maxwell Distribution"
-msgstr "麦克斯韦配送"
+msgstr "Maxwell Distribution"
 
 #: .\templates\projects\projects.html:85
 msgid "Delivery of 200+ containers from China and Turkey."
@@ -540,7 +597,7 @@ msgstr "为哈萨克斯坦及独联体各地的学校设备提供全方位物流
 
 #: .\templates\projects\projects.html:98 .\templates\projects\projects.html:101
 msgid "Freedom Telecom"
-msgstr "自由电信"
+msgstr "Freedom Telecom"
 
 #: .\templates\projects\projects.html:103
 msgid "Transportation of telecom equipment across Kazakhstan."
@@ -553,7 +610,7 @@ msgstr "为通信网络建设与现代化项目提供物流支持。"
 #: .\templates\projects\projects.html:116
 #: .\templates\projects\projects.html:119
 msgid "Coca-Cola"
-msgstr "可口可乐"
+msgstr "Coca-Cola"
 
 #: .\templates\projects\projects.html:121
 msgid "Providing transport for full distribution of products"
