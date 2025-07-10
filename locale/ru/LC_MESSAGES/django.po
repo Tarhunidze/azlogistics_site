@@ -644,9 +644,6 @@ msgstr "Расширение телекоммуникационных сетей
 msgid "ZAMMLER"
 msgstr "ZAMMLER"
 
-#: .\templates\projects\projects.html:154
-msgid "Kaspi e-commerce cargo"
-msgstr "Каспи Карго — ZAMMLER"
 
 #: .\templates\projects\projects.html:156
 msgid "8AZ team provides"
