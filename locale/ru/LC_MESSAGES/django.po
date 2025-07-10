@@ -410,13 +410,12 @@ msgstr "Группа Казатомпром"
 msgid "Logistics for Ulba plant, Mashzavod, and Volkovgeologia."
 msgstr "Логистика для Ульбинского завода, Машзавода и Волковгеологии."
 
-#: .\templates\main\index.html:294
 msgid "Kaspi e-commerce cargo"
-msgstr "Грузы Каспи магазина"
+msgstr "Грузы Kaspi магазина"
 
-#: .\templates\main\index.html:295
-msgid " Intercity transportation of Kaspi.kz cargo. 24/7 monitoring."
-msgstr "Транспортировка товаров магазина Kaspi.kz"
+msgid "Intercity transportation of Kaspi.kz cargo. 24/7 monitoring."
+msgstr "Межгородская доставка Kaspi.kz. Круглосуточный мониторинг."
+
 
 #: .\templates\main\index.html:311
 msgid "Location"
