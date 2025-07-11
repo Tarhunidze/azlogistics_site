@@ -729,15 +729,4 @@ html {
   object-fit: contain;
   margin-bottom: 10px;
 }
-@media (max-width: 576px) {
-  .nav-item.ms-3 select {
-    margin-top: 10px; /* отступ сверху */
-    margin-bottom: 10px; /* отступ снизу */
-  }
-
-  .nav-item.ms-3 {
-    margin-top: 10px !important;
-    margin-bottom: 10px !important;
-  }
-}
 
