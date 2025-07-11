@@ -92,20 +92,20 @@
           <li class="nav-item"><a class="nav-link text-white" href="/services/">{% trans "Services" %}</a></li>
           <li class="nav-item"><a class="nav-link text-white" href="/projects/">{% trans "Projects" %}</a></li>
           <li class="nav-item"><a class="nav-link text-white" href="/contacts/">{% trans "Contacts" %}</a></li>
-          <li class="nav-item">
-            <a class="btn btn-warning ms-3 fw-semibold px-4" href="/apply/">{% trans "Submit a Request" %}</a>
-          </li>
-
+       <li class="nav-item mb-2">
+  <a class="btn btn-warning fw-semibold px-4 w-100 mb-2" href="/apply/">{% trans "Submit a Request" %}</a>
+</li>
           <!-- 🌐 Language Switcher -->
-          <li class="nav-item ms-3">
-           <form action="{% url 'set_language' %}" method="post">
-  {% csrf_token %}
-  <select name="language" onchange="this.form.submit()" class="form-select form-select-sm bg-dark text-white border-secondary">
-    <option value="en" {% if LANGUAGE_CODE == 'en' %}selected{% endif %}>🇬🇧</option>
-    <option value="ru" {% if LANGUAGE_CODE == 'ru' %}selected{% endif %}>🇷🇺</option>
-    <option value="zh-hans" {% if LANGUAGE_CODE == 'zh-hans' %}selected{% endif %}></option>
-  </select>
-</form>
+
+<li class="nav-item">
+         <form action="{% url 'set_language' %}" method="post" class="w-100">
+    {% csrf_token %}
+    <select name="language" onchange="this.form.submit()" class="form-select form-select-sm bg-dark text-white border-secondary">
+      <option value="en" {% if LANGUAGE_CODE == 'en' %}selected{% endif %}>EN</option>
+      <option value="ru" {% if LANGUAGE_CODE == 'ru' %}selected{% endif %}>RU</option>
+      <option value="zh-hans" {% if LANGUAGE_CODE == 'zh-hans' %}selected{% endif %}>中文</option>
+    </select>
+  </form>
 
           </li>
         </ul>
