@@ -43,3 +43,7 @@ def apply(request):
         form = OrderForm()
 
     return render(request, 'orders/apply.html', {'form': form})
+from django.shortcuts import render
+
+def success_page(request):
+    return render(request, 'orders/success.html')
