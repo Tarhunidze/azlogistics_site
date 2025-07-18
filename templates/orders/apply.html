@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 {% load static %}
 {% load i18n %}
+{% load widget_tweaks%}
 
 {% block content %}
 <section class="bg-black text-white py-5 rounded-section">
@@ -10,41 +11,41 @@
       {% trans "Leave your contact information, choose a service type, and we will contact you for consultation." %}
     </p>
 
+    {% if messages %}
+      <div class="alert alert-danger text-center">
+        {% for message in messages %}
+          {{ message }}
+        {% endfor %}
+      </div>
+    {% endif %}
+
     <form method="post" class="bg-dark p-4 rounded-4 shadow-lg mx-auto" style="max-width: 700px;">
       {% csrf_token %}
+      {{ form.extra_field }}
 
       <div class="mb-4">
-        <label for="id_full_name" class="form-label fs-5">{% trans "Full Name" %}</label>
-        <input type="text" name="full_name" class="form-control form-control-lg rounded" id="id_full_name" placeholder="{% trans 'Enter your full name' %}">
+        <label for="{{ form.full_name.id_for_label }}" class="form-label fs-5">{% trans "Full Name" %}</label>
+        {{ form.full_name|add_class:"form-control form-control-lg rounded" }}
       </div>
 
       <div class="mb-4">
-        <label for="id_phone" class="form-label fs-5">{% trans "Phone" %}</label>
-        <input type="text" name="phone" class="form-control form-control-lg rounded" id="id_phone" placeholder="{% trans 'Enter your phone number' %}">
+        <label for="{{ form.phone.id_for_label }}" class="form-label fs-5">{% trans "Phone" %}</label>
+        {{ form.phone|add_class:"form-control form-control-lg rounded" }}
       </div>
 
       <div class="mb-4">
-        <label for="id_email" class="form-label fs-5">Email</label>
-        <input type="email" name="email" class="form-control form-control-lg rounded" id="id_email" placeholder="{% trans 'Enter your email' %}">
+        <label for="{{ form.email.id_for_label }}" class="form-label fs-5">Email</label>
+        {{ form.email|add_class:"form-control form-control-lg rounded" }}
       </div>
 
       <div class="mb-4">
-        <label for="id_request_type" class="form-label fs-5">{% trans "Request Type" %}</label>
-        <select name="request_type" class="form-select form-select-lg rounded" id="id_request_type" required>
-          <option value="">{% trans "Choose..." %}</option>
-          <option value="ltl">{% trans "Consolidated cargo transportation (LTL)" %}</option>
-          <option value="ftl">{% trans "Full truckload transportation (FTL)" %}</option>
-          <option value="oversized">{% trans "Oversized cargo transportation" %}</option>
-          <option value="rail">{% trans "Railway transportation" %}</option>
-          <option value="air">{% trans "Air freight" %}</option>
-          <option value="customs">{% trans "Customs clearance" %}</option>
-          <option value="relocation">{% trans "Relocation and personal belongings" %}</option>
-        </select>
+        <label for="{{ form.request_type.id_for_label }}" class="form-label fs-5">{% trans "Request Type" %}</label>
+        {{ form.request_type|add_class:"form-select form-select-lg rounded" }}
       </div>
 
       <div class="mb-4">
-        <label for="id_message" class="form-label fs-5">{% trans "Comment" %}</label>
-        <textarea name="message" class="form-control form-control-lg rounded" id="id_message" rows="4" placeholder="{% trans 'Additional details...' %}"></textarea>
+        <label for="{{ form.message.id_for_label }}" class="form-label fs-5">{% trans "Comment" %}</label>
+        {{ form.message|add_class:"form-control form-control-lg rounded" }}
       </div>
 
       <div class="text-center mt-4">
